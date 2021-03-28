@@ -1,0 +1,54 @@
+@import "~bootstrap/scss/bootstrap";
+
+.card-header {
+    background-color: white;
+    border: none;
+}
+
+h1 {
+    margin-bottom: 30px
+}
+
+img {
+    width: 70px;
+    height: 80px;
+    margin-right: 40px;
+}
+
+span {
+    font-weight: bold;
+}
+
+.great {
+    color: #006600;
+}
+
+.good {
+    color: #336600;
+}
+
+.okay {
+    color: #009900;
+}
+
+.bad {
+    color: red;
+}
+div.card-deck > .card {
+    width: 29%;
+    position: relative;
+    flex-wrap: wrap;
+    flex: initial;
+    margin-bottom: 20px; 
+}
+
+// https://stackoverflow.com/a/3494108
+div.card-deck > div.card > a > span {
+    position: absolute; 
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+      
+    z-index: 1;
+}

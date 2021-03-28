@@ -1,0 +1,23 @@
+<div class="container">
+  <h1>Job Boards</h1>
+  <div class="card-deck">
+    <% @job_boards.each do |job_board| %>
+        <div class="card">
+          <a href="job_boards/<%= job_board.id %>"><span></span></a>
+            <div class="card-header">
+              <div class="text-right">
+                <span class=<%= job_board.rating.downcase %>><%= job_board.rating %></span>
+              </div>
+            </div>
+              <div class="card-body">
+                <div class="row">
+                  <div class="col-3">
+                    <img src=<%= job_board.logo_location %> alt=<%= job_board.name %>>
+                  </div>
+                  <div class="col-9"><%= job_board.description %></div>
+                </div>
+              </div>
+          </div>
+    <%end%>
+  </div>
+</div>
