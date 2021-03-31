@@ -3,6 +3,7 @@
 ## How it works:
 - This program works by using Rake tasks to populate the database for both the CSV and JSON files. Using a Rake task allows for easy use under a cron-esque task scheduler.
 - The front end uses the job_board route entirely `http://localhost:3000/job_boards` and uses a show for all the jobs `http://localhost:3000/job_boards/{id}`. The front-end lets you click on the card to display all jobs on the item.
+- You can also view it without running the code from the following URL: ` hidden-shore-94251[D O T]herokuapp[D O T]com/job_boards `
 
 ## Files and folders to look at:
 - `lib/tasks/import_csv_into_db.rake` : The main tasks that allow importing into both databases and creating the CSV with the jobs.
