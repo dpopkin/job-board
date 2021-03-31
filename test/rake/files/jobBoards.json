@@ -1,0 +1,11 @@
+{
+  "job_boards": [
+    {
+      "name": "Jorb",
+      "rating": "Great",
+      "root_domain": "jorb.test",
+      "logo_file": "https://storage.googleapis.com/pathrise-app/job_sources/google.png",
+      "description": "Hi can I get a dozen red roses please? Oh hi Johnny I didn't know it was you. How much is it? It'll be 18.50. Here you go keep the change. Hi doggy. You're my favorite customer. Thanks a lot bye."
+    }
+  ]
+}

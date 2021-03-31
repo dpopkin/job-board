@@ -1,11 +1,13 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  job_title: MyString
-  company_name: MyString
-  job_url: MyString
+  job_title: Assistant to Tommy
+  company_name: Wiseau Films
+  job_url: something.test
+  job_board: lagged
 
 two:
-  job_title: MyString
-  company_name: MyString
-  job_url: MyString
+  job_title: Maker of Movie Film
+  company_name: Wiseau Films
+  job_url: somethingelse.test
+  job_board: lagged

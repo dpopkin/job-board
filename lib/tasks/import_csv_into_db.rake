@@ -11,7 +11,7 @@ namespace :import_files do
     Job.import jobs
   end
 
-  desc 'This imports the job boards that will be used by both the CSV and application into the SQLite database'
+  desc 'This imports the job boards that will be used by both the CSV and application into the SQLite database. Also establishes relationships'
   task import_job_boards: :environment do
     boards = []
     file_data = JSON.load_file('job_data/jobBoards.json')
@@ -25,6 +25,14 @@ namespace :import_files do
       )
     end
     JobBoard.import boards
+
+    # Establish relation with jobs.
+    JobBoard.all.each do |board|
+      Job.where('job_url like ?', '%' + board.root_domain + '%').each do |job|
+        job.update(job_board_id: board.id)
+      end
+    end
+
   end
 
   desc 'This generates the CSV that combines the job and job boards with the other edge cases in the instructions'
@@ -54,12 +62,8 @@ namespace :import_files do
         end
         main_domain = parse_link.domain.split('.')[0]
 
-        # Why on earth did I not establish an optional relationship?!
-        # Do it after everything is working, I guess.
-        has_job_board = job_board.find_by(root_domain: parse_link.domain)
-
-        if has_job_board.present?
-          csv << [job.id, job.job_title, job.company_name, has_job_board.name, job.job_url]
+        if !job.job_board_id.nil?
+          csv << [job.id, job.job_title, job.company_name, job.job_board.name, job.job_url]
           # TODO: Find something better. This has more than a few edge cases.
         elsif main_domain.include?(job.company_name.downcase.delete(' ')) || job.company_name.downcase.include?(main_domain)
           csv << [job.id, job.job_title, job.company_name, 'Company Website', job.job_url]

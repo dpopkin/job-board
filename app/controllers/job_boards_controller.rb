@@ -10,7 +10,7 @@ class JobBoardsController < ApplicationController
   def show
     job_board = JobBoard.find(params[:id])
     # Relationship is needed, buts let's see if we can do it without one for now.
-    @jobs = Job.where('job_url like ?', "%" + job_board.root_domain + "%")
+    @jobs = job_board.jobs
   end
 
   private

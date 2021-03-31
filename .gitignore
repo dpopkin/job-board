@@ -38,3 +38,4 @@
 /yarn-error.log
 yarn-debug.log*
 .yarn-integrity
+test/rake/files/merged_job_opportunities.csv

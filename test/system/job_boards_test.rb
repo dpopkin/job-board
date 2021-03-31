@@ -2,50 +2,25 @@ require "application_system_test_case"
 
 class JobBoardsTest < ApplicationSystemTestCase
   setup do
-    @job_board = job_boards(:one)
+    @job_board = job_boards(:lagged)
   end
 
-  test "visiting the index" do
+  test "can view job board" do
     visit job_boards_url
     assert_selector "h1", text: "Job Boards"
   end
 
-  test "creating a Job board" do
-    visit job_boards_url
-    click_on "New Job Board"
-
-    fill_in "Description", with: @job_board.description
-    fill_in "Logo location", with: @job_board.logo_location
-    fill_in "Name", with: @job_board.name
-    fill_in "Rating", with: @job_board.rating
-    fill_in "Root domain", with: @job_board.root_domain
-    click_on "Create Job board"
-
-    assert_text "Job board was successfully created"
-    click_on "Back"
+  test "can visit table of job board" do
+    visit job_board_url(JobBoard.first)
+    assert_selector "h1", text: "Job Board"
   end
 
-  test "updating a Job board" do
-    visit job_boards_url
-    click_on "Edit", match: :first
-
-    fill_in "Description", with: @job_board.description
-    fill_in "Logo location", with: @job_board.logo_location
-    fill_in "Name", with: @job_board.name
-    fill_in "Rating", with: @job_board.rating
-    fill_in "Root domain", with: @job_board.root_domain
-    click_on "Update Job board"
-
-    assert_text "Job board was successfully updated"
-    click_on "Back"
+  test "table of job board is populated" do
+    # Relation with job board is established through minitest fixture.
+    # See: https://guides.rubyonrails.org/testing.html#the-low-down-on-fixtures
+    @job = jobs(:one)
+    visit job_board_url(JobBoard.first)
+    assert_text @job.job_title
   end
 
-  test "destroying a Job board" do
-    visit job_boards_url
-    page.accept_confirm do
-      click_on "Destroy", match: :first
-    end
-
-    assert_text "Job board was successfully destroyed"
-  end
 end

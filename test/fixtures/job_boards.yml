@@ -1,15 +1,16 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  name: MyString
-  rating: MyString
-  root_domain: MyString
-  logo_location: MyString
-  description: MyString
+lagged:
+  name: lagged_on
+  rating: something
+  root_domain: example.test
+  # Need some log from somewhere to load for the job board.
+  logo_location: favicon.ico
+  description: Yeah, can I get a dozen red roses please?
 
-two:
-  name: MyString
-  rating: MyString
-  root_domain: MyString
-  logo_location: MyString
-  description: MyString
+beast:
+  name: Beast
+  rating: and now for something completely different
+  root_domain: example.test
+  logo_location: favicon.ico
+  description: Oh hai doggy.

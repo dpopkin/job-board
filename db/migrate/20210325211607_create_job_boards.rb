@@ -3,7 +3,7 @@ class CreateJobBoards < ActiveRecord::Migration[6.1]
     create_table :job_boards do |t|
       t.string :name
       t.string :rating
-      t.string :root_domain
+      t.string :root_domain, uniqueness: true
       t.string :logo_location
       t.string :description
 

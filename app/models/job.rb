@@ -1,3 +1,3 @@
 class Job < ApplicationRecord
-    belongs_to :JobBoard, optional: true
+    belongs_to :job_board, optional: true
 end

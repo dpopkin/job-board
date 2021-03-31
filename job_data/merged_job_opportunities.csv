@@ -564,7 +564,7 @@ ID (primary key),Job Title,Company Name,Job Source,Job URL
 563,"Associate Director, Strategy & Analytics",HomeAdvisor,Unknown,
 564,Senior Technical Program Manager,Robinhood,Unknown,
 565,"",Unknown,Unknown,https://www.cloverhealth.com/en/about-us/job-opening?gh_jid=2534436
-566,"",Unknown,Unknown,https://clever.com/about/careers/detail?gh_jid=2388626&gh_src=2f91e8121us
+566,"",Unknown,Lever,https://clever.com/about/careers/detail?gh_jid=2388626&gh_src=2f91e8121us
 567,Project manager,Timehop,Lever,https://jobs.lever.co/timehop/2f913d8a-ae43-4937-9050-b97d128d91c3/apply
 568,Data Science Manager,Asana,Unknown,
 569,UX/UI Designer,GapExec,Unknown,
@@ -926,7 +926,7 @@ ID (primary key),Job Title,Company Name,Job Source,Job URL
 925,Software Engineer R&D,"Barn2Door, Inc.",Unknown,https://barn2door-inc.breezy.hr/p/9f263d7158be-software-engineer-r-d/apply/submitted
 926,Software development engineer (ai platform),Wyze Labs,Lever,https://jobs.lever.co/wyze/2c6d61af-8723-4e97-aa4f-4ed253f94cc1/apply
 927,Ecommerce Manager,Spirit Jersey®,LinkedIn,https://www.linkedin.com/jobs/search/post-apply/skill-assessments/?currentJobId=2349945472&f_LF=f_EA&f_TPR=r604800&geoId=103644278&keywords=ecommerce%20manager&location=United%20States&postApplyJobId=2349945472
-928,"",Unknown,Unknown,https://clever.com/about/careers/detail?gh_jid=2388626&gh_src=2f91e8121us
+928,"",Unknown,Lever,https://clever.com/about/careers/detail?gh_jid=2388626&gh_src=2f91e8121us
 929,Software Engineer - New Grads,Bill.com,Lever,https://jobs.lever.co/bill/4570992c-19aa-4aaf-a4ac-088ea86b6a82/apply
 930,Software Engineer,XILO,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2343352148&f_CF=f_WRA&f_E=2%2C3&f_JT=F%2CP%2CC&geoId=103644278&location=United%20States
 931,Growth Marketing Manager,HelloFresh,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2339967017&f_LF=f_EA&f_TPR=r604800&geoId=103644278&keywords=ecommerce%20manager&location=United%20States
@@ -1019,12 +1019,12 @@ ID (primary key),Job Title,Company Name,Job Source,Job URL
 1018,Software Engineer ,Capsule,Greenhouse,https://boards.greenhouse.io/capsulecares/jobs/4865460002?utm_source=ziprecruiter#app
 1019,SEM/Paid Social Manager,DELVE,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=1975577114&f_LF=f_EA&geoId=103644278&keywords=paid%20social%20manager&location=United%20States
 1020,Software Developer - Computer Vision System Integration,Apple,Company Website,https://jobs.apple.com/en-us/details/200171076/software-developer-computer-vision-system-integration
-1021,Software engineer 1,Amazon,Company Website,https://www.amazon.jobs/en/jobs/1383919/software-dev-engineer-i?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid
+1021,Software engineer 1,Amazon,LinkedIn,https://www.amazon.jobs/en/jobs/1383919/software-dev-engineer-i?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid
 1022,"Sr Manager, User Acquisition",Tala,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2360687890&f_LF=f_EA&geoId=103644278&keywords=paid%20social%20manager&location=United%20States&start=25
 1023,Paid Social Marketing Manager,Spectraforce Technologies,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2342344984&f_LF=f_EA&geoId=103644278&keywords=paid%20social%20manager&location=United%20States&start=75
 1024,Sr. Manager of Demand Generation,Databricks,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2333492512&f_LF=f_EA&geoId=103644278&keywords=paid%20social%20manager&location=United%20States&start=75
 1025,​ Paid Social Media Manager,Perpetual Consulting,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2361371107&f_LF=f_EA&geoId=103644278&keywords=paid%20social%20manager&location=United%20States&start=75
-1026,Software development engineer – aws elastic mapreduce (emr),Amazon,Company Website,https://www.amazon.jobs/en/jobs/1374182/software-development-engineer-aws-elastic-mapreduce-emr?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid
+1026,Software development engineer – aws elastic mapreduce (emr),Amazon,LinkedIn,https://www.amazon.jobs/en/jobs/1374182/software-development-engineer-aws-elastic-mapreduce-emr?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid
 1027,Software Engineer - Software Tools,Toyota Research Institute,Lever,https://jobs.lever.co/tri/e3cf21e6-a2fd-4f33-b479-716eaa6cfb2c/apply
 1028,"",Unknown,LinkedIn,https://www.linkedin.com/jobs/view/javascript-developer-at-procensis-2291814947/
 1029,Web Developer,Google,Unknown,
@@ -1160,7 +1160,7 @@ ID (primary key),Job Title,Company Name,Job Source,Job URL
 1159,Computer Technician,UNITED STATES ARMY,Indeed,https://www.indeed.com/jobs?q=computer&l=San%20Francisco%2C%20CA&radius=50&vjk=f3701f1b55a38eca
 1160,"Intern, Mobile Apps",STAR Labs,Indeed,https://www.indeed.com/jobs?q=computer&l=San%20Francisco%2C%20CA&radius=50&vjk=89b2155c8498836d
 1161,Venture Analyst- NOVA,Saint-Gobain Research North America,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2350901832&pivotType=jymbii&start=24
-1162,Graphic Designer,eTeam,Unknown,https://www2.jobdiva.com/portal/?a=dkjdnwsd3qobb1x3x7n5itzrpxkys501d7qcf2jo789qz6pqipvc7pb304ju7kfj&jobid=13974369#/jobs/13974369?compid=0&SearchString=&StatesString=&id=13974369&source=linkedin.com
+1162,Graphic Designer,eTeam,LinkedIn,https://www2.jobdiva.com/portal/?a=dkjdnwsd3qobb1x3x7n5itzrpxkys501d7qcf2jo789qz6pqipvc7pb304ju7kfj&jobid=13974369#/jobs/13974369?compid=0&SearchString=&StatesString=&id=13974369&source=linkedin.com
 1163,Test Engineer,Sanmina-SCI Systems Tel Aviv,Unknown,https://sanminacareers.mua.hrdepartment.com/hr/ats/Posting/view/54444
 1164,Software Engineer,MGTC,LinkedIn,https://www.linkedin.com/jobs/search/?alternateChannel=jymbii&alternateCode=seturl&currentJobId=2343665642&eBP=JYMBII_JOBS_HOME_ORGANIC&pivotType=jymbii&refId=ECyo0jFndk2GauXQ4pzvTA%3D%3D&start=72&trk=d_flagship3_job_home
 1165,Production Control Planner,Unknown,ZipRecruiter,https://www.ziprecruiter.com/jobs/futaba-industrial-texas-corp-125aba0e/production-control-planner-e1809680?expires=1607123905&tsid=111000055&utm_campaign=37858&contact_id=da7814bc&lvk=DyxHhFwDLgwoj2yC8t5JLw.--LpUGurxZZ
@@ -2722,7 +2722,7 @@ Job ",Unknown,https://app.trinethire.com/companies/28574-the-commons-project/job
 2719,"",Unknown,Unknown,https://www.pangaea.holdings/careers?gh_jid=4856695002&gh_src=dcde61cb2us
 2720,Product Manager (m/f/d),Spryker Systems,Unknown,https://spryker.join.com/jobs/1736044-product-manager-m-f-d?pid=0aa3516742c2a90cc7e4&utm_source=linkedin&utm_medium=free&utm_campaign=linkedin%2Blimited%2Blisting&utm_content=product%2Bmanager%2Bm%2Bf%2Bd
 2721,"",Unknown,Unknown,https://www.tapad.com/careers/openings/?gh_jid=2563393&gh_src=t2wb034v1
-2722,Product Designer,Unknown,Unknown,https://careers.execu-search.com/jobs/262840?utm_source=linkedin.com&utm_medium=paid&utm_campaign=linkedin.com_jobs
+2722,Product Designer,Unknown,LinkedIn,https://careers.execu-search.com/jobs/262840?utm_source=linkedin.com&utm_medium=paid&utm_campaign=linkedin.com_jobs
 2723,Jr. software engineer,PeriShip,Indeed,https://www.indeed.com/viewjob?from=app-tracker-saved-applybtn%2CiaBackPress&hl=en&jk=e1857b8905056bd1&tk=1eraj60q5u2fl800
 2724,"Senior product manager, core experience",Capsule,Greenhouse,https://boards.greenhouse.io/capsulecares/jobs/4969447002
 2725,Software Engineer,Goldman Sachs,Unknown,
@@ -3193,7 +3193,7 @@ Job ",Unknown,https://app.trinethire.com/companies/28574-the-commons-project/job
 3190,Associate product marketing manager,Afresh Technologies,Lever,https://jobs.lever.co/afreshtechnologies/793e13ca-0dd1-476b-bbb9-ac8b18a0d59b/apply
 3191,"Sr. Analyst, Business Intelligence",Foursquare,Greenhouse,https://boards.greenhouse.io/foursquare26/jobs/2558004?gh_src=5ce553f31
 3192,Full Stack Software Engineer ,CESPPA,Unknown,
-3193,Software Engineer - New Grad,Clever,Company Website,https://clever.com/about/careers/detail?gh_jid=2388626
+3193,Software Engineer - New Grad,Clever,Lever,https://clever.com/about/careers/detail?gh_jid=2388626
 3194,"",Unknown,Google,https://mail.google.com/mail/u/1/#sent/KtbxLwHLsJSjtQSGdfHcCBzqrhrKbLmQzL
 3195,Software Engineer,AppSumo,Greenhouse,https://boards.greenhouse.io/appsumocareers/jobs/2566155?gh_src=049a3ce81us#app
 3196,Sr. Product Manager,"Prescryptive Health, Inc.",LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2330872773&f_E=4%2C3%2C2&f_F=prdm&f_JT=F&f_TPR=r604800&geoId=103644278&keywords=product%20manager&location=United%20States&sortBy=DD&start=25
@@ -3331,7 +3331,7 @@ Job ",Unknown,https://app.trinethire.com/companies/28574-the-commons-project/job
 3328,IT Technical Support,Warp2Biz,Indeed,https://www.indeed.com/jobs?q=tech%20support&l=California&fromage=7&start=10&vjk=1e838deb2a9360ad
 3329,User Experience Designer,"Gecko Robotics, Inc.",LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2288649617&geoId=90000064&keywords=ux%20designer&location=Austin%2C%20Texas%20Metropolitan%20Area
 3330,"",Unknown,Unknown,https://www.pangaea.holdings/careers?gh_jid=4856695002&gh_src=dcde61cb2us
-3331,Principal-Inventive Scientist,AT&T,Unknown,https://www.att.jobs/job/-/principal-inventive-scientist/117/18249744?utm_source=indeed.com_organic&utm_medium=organic&utm_campaign=organic&utm_content=job_aggregator&dclid=CPyPv5bH0O0CFRRcDAodkq0O7w
+3331,Principal-Inventive Scientist,AT&T,Indeed,https://www.att.jobs/job/-/principal-inventive-scientist/117/18249744?utm_source=indeed.com_organic&utm_medium=organic&utm_campaign=organic&utm_content=job_aggregator&dclid=CPyPv5bH0O0CFRRcDAodkq0O7w
 3332,ML(Machine Learning) Engineer,Atos Syntel Inc.,Unknown,https://www.dice.com/jobs/detail/629bdd5e72e5844480dbfd74d9c7f874?src=32&utm_source=appcast&utm_medium=aggregator&utm_campaign=linkedin-dice-paid#/registrationTab
 3333,Software Engineer - Creator Platforms,Twitch,LinkedIn,https://www.linkedin.com/jobs/view/2234543109/
 3334,UI Designer,Star,Company Website,https://star.global/careers/ui-designer-2/
@@ -4415,7 +4415,7 @@ Job ",Unknown,https://app.trinethire.com/companies/28574-the-commons-project/job
 4412,Senior Marketing Analyst,Billie,Greenhouse,https://boards.greenhouse.io/billie9/jobs/5005880002?gh_src=e0d6a0f52us
 4413,"Sr Manager, Technology Program Manager",WarnerMedia,Company Website,https://www.warnermediacareers.com/job/burbank/sr-manager-technology-program-manager/1174/16270086
 4414,Software Engineer,REX,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2354678966&f_E=2&geoId=103644278&keywords=entry%20level%20software%20engineer&location=United%20States
-4415,Technical Project Manager,CPSI,Unknown,https://www.appone.com/maininforeq.asp?Ad=684316&R_ID=3327526&Refer=https://www.glassdoor.com/&B_ID=83
+4415,Technical Project Manager,CPSI,Glassdoor,https://www.appone.com/maininforeq.asp?Ad=684316&R_ID=3327526&Refer=https://www.glassdoor.com/&B_ID=83
 4416,Marketing Manager,Someone & Others,LinkedIn,https://www.linkedin.com/jobs/view/2356444281/?refId=a9866af3-3df7-4539-afab-46d65e2beb65
 4417,Python Developer,SHINETECH SOFTWARE INC,ZipRecruiter,https://www.ziprecruiter.com/jobs/shinetech-software-inc-cd296422/python-developer-bc04ff95?tsid=122001595&enc_campaign_id=e5c5742c
 4418,Implementation Manager - Cloudflare One ,Cloudflare,Greenhouse,https://boards.greenhouse.io/cloudflare/jobs/2414383?gh_jid=2414383
@@ -4650,7 +4650,7 @@ Job ",Unknown,https://app.trinethire.com/companies/28574-the-commons-project/job
 4647,Data Analyst - Contract,Sony Interactive Entertainment PlayStation,Greenhouse,https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/2536300/?t=b8y5ha&s=LinkedIn&source=LinkedIn#app
 4648,Growth Marketing Manager,Synthego Corporation,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2332261082&f_LF=f_EA&f_TPR=r604800&geoId=103644278&keywords=growth%20marketing%20manager&location=United%20States
 4649,PMM,Oracle,Unknown,https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=20000XVG&src=LinkedIn
-4650,React.js Developer,Intellisoft Technologies,Unknown,https://www1.jobdiva.com/portal/?a=yajdnwuvujuoeu3g1yh8l7fvujaknw046bg9zm3hk20vcfueroelo8di56bznygd&jobid=15396647#/jobs/15396647?compid=0&SearchString=&StatesString=&id=15396647&source=linkedin.com
+4650,React.js Developer,Intellisoft Technologies,LinkedIn,https://www1.jobdiva.com/portal/?a=yajdnwuvujuoeu3g1yh8l7fvujaknw046bg9zm3hk20vcfueroelo8di56bznygd&jobid=15396647#/jobs/15396647?compid=0&SearchString=&StatesString=&id=15396647&source=linkedin.com
 4651,PMM,Microsoft,Company Website,https://careers.microsoft.com/us/en/applythankyou?jobSeqNo=949432
 4652,Full Stack Developer,ghSMART,Indeed,https://www.indeed.com/jobs?q=web%20developer&l=Seattle%2C%20WA&vjk=fd36777b4473bf36
 4653,Data Operations Associate,Amount,Unknown,
@@ -4859,7 +4859,7 @@ Job ",Unknown,https://app.trinethire.com/companies/28574-the-commons-project/job
 4856,Implementation Consultant,Box,Greenhouse,https://boards.greenhouse.io/boxinc/jobs/2556762?gh_src=sde78l1
 4857,Business Operations Analyst,Curology,Lever,https://jobs.lever.co/curology/88d86f82-44dd-4879-9439-330db9f4e9b3/apply
 4858,New grad Backend Engineer (Remote) - US & Canada,Nightfall,Lever,https://jobs.lever.co/nightfall/80cdcd6e-1d19-41c5-9eeb-ee1b3d4d5a56/apply
-4859,Software Development Engineer I,Amazon,Company Website,https://www.amazon.jobs/en/jobs/1384945/software-development-engineer-i?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid
+4859,Software Development Engineer I,Amazon,LinkedIn,https://www.amazon.jobs/en/jobs/1384945/software-development-engineer-i?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid
 4860,Growth marketing analyst,quip,Greenhouse,https://boards.greenhouse.io/quip/jobs/2557440
 4861,Part Time Social Media Coordinator,Khoros,Unknown,https://careers-khoros.icims.com/jobs/1496/part-time-social-media-coordinator/job?mode=submit_apply
 4862,Marketing operations specialist,Perceptyx,Unknown,https://apply.workable.com/perceptyx/j/CFBE0DA04E/apply/?success
@@ -5371,7 +5371,7 @@ Job ",Unknown,https://app.trinethire.com/companies/28574-the-commons-project/job
 5368,Entry level IT Database Admin (SQL DBA),Quotum Technologies,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2312371147&f_E=3%2C2&f_F=it&f_I=96&f_JT=F%2CC&f_SB2=2&f_TPR=r604800&geoId=103644278&keywords=new%20graduate
 5369,Software Engineer 1,"Boeing Defense, Space & Security",Unknown,https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/login?redirect=%2FEXTERNAL_CAREERS%2Fjob%2FUSA---Germantown-MD%2FSoftware-Engineer-1-Entry-Level_00000213829%2Fapply%3Futm_campaign%3Dra-us%26utm_medium%3Djob_posting%26utm_source%3Dlinkedin%26dclid%3DCjgKEAiAhs79BRCkgO6nn8Pcy2oSJACVTYJfrDFAHMEYFhEsQpHaj9zfAsrYTr23H_B5c5_UUSS7ifD_BwE
 5370,Business Strategy Manager,Chegg,Jobvite,https://jobs.jobvite.com/chegg/job/oQK3cfwz/apply
-5371,Python engineer (united income),Capital One,Company Website,https://www.capitalonecareers.com/job/-/-/1732/17645230?utm_source=linkedin.com&utm_campaign=talent_marketing&utm_medium=social_media&utm_content=job_posting&utm_term=265525768&ss=paid&dclid=CjgKEAiAhs79BRCkgO6nn8Pcy2oSJACVTYJfstLmV9cDATfcFgKkJlVNyhw1P7ngtYmJk9C1MdfPxfD_BwE
+5371,Python engineer (united income),Capital One,LinkedIn,https://www.capitalonecareers.com/job/-/-/1732/17645230?utm_source=linkedin.com&utm_campaign=talent_marketing&utm_medium=social_media&utm_content=job_posting&utm_term=265525768&ss=paid&dclid=CjgKEAiAhs79BRCkgO6nn8Pcy2oSJACVTYJfstLmV9cDATfcFgKkJlVNyhw1P7ngtYmJk9C1MdfPxfD_BwE
 5372,Python Developer – Market Data,Balyasny Asset Management,Unknown,https://bamfunds.wd1.myworkdayjobs.com/External/job/Chicago/Python-Developer---Market-Data_REQ1636
 5373,Java/Python Software Engineer,JP Morgan,Unknown,https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210033154/?utm_medium=jobshare
 5374,Growth Acquisition Marketer,Trafilea,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2285298372&f_TPR=r604800&geoId=103644278&keywords=user%20acquisition%20manager&location=United%20States&spellCorrectionEnabled=false
@@ -5538,7 +5538,7 @@ Job ",Unknown,https://app.trinethire.com/companies/28574-the-commons-project/job
 5535,Product Manager,Anduril Industries,Lever,https://jobs.lever.co/anduril/485e7c1e-b615-4c39-8820-19cb1193c085/apply?lever-source=LinkedIn
 5536,Andrew Merewitz,Amazon,LinkedIn,https://www.linkedin.com/in/andrew-merewitz-74619434/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAclRCYBiyU_kUo-YSejnS6I9B3YVai62pU
 5537,"Product Manager, Document Verification",Socure,Greenhouse,https://boards.greenhouse.io/socure/jobs/4222150003?gh_src=629e617f3us
-5538,Salesforce Product Owner - Risk,PwC,Company Website,https://jobs.us.pwc.com/job/-/-/932/17509596?utm_source=linkedin.com&utm_campaign=core_media&utm_medium=social_media&utm_content=job_posting&ss=paid&dclid=CjgKEAiAhs79BRCkgO6nn8Pcy2oSJACVTYJfdwkZEYz0SrfG69f5uj-dpORG4UUDJ1M3rlaw27dK3_D_BwE
+5538,Salesforce Product Owner - Risk,PwC,LinkedIn,https://jobs.us.pwc.com/job/-/-/932/17509596?utm_source=linkedin.com&utm_campaign=core_media&utm_medium=social_media&utm_content=job_posting&ss=paid&dclid=CjgKEAiAhs79BRCkgO6nn8Pcy2oSJACVTYJfdwkZEYz0SrfG69f5uj-dpORG4UUDJ1M3rlaw27dK3_D_BwE
 5539,"",Unknown,LinkedIn,https://www.linkedin.com/jobs/view/2150552410/?refId=s9eGddGDTx8V%2BkKw6iXatA%3D%3D&eBP=NotAvailableFromMidTier
 5540,Product Manager II - Nomad Core,HashiCorp,Greenhouse,https://boards.greenhouse.io/embed/job_app?token=2387245&gh_src=a8bc2ad21&s=LinkedIn&source=LinkedIn
 5541,Front End Developer,Mondo,LinkedIn,https://www.linkedin.com/jobs/search/?alternateChannel=jymbii&alternateCode=seturl&currentJobId=2311520334&eBP=JYMBII_JOBS_HOME_ORGANIC&pivotType=jymbii&refId=wSisuk89yraCNlQrkCsn8A%3D%3D&start=0&trk=d_flagship3_job_home
@@ -5754,7 +5754,7 @@ Job ",Unknown,https://app.trinethire.com/companies/28574-the-commons-project/job
 5751,Data Scientist - Pricing,Opendoor,Lever,https://jobs.lever.co/opendoor/e2ebd554-4da9-4472-a4d5-c6ee61a2eb6d/apply?lever-origin=applied&lever-source%5B%5D=BuiltInSan%20Francisco
 5752,"Partner, Growth Consulting",IRI,LinkedIn,https://www.linkedin.com/jobs/search/?alternateChannel=jymbii&alternateCode=seturl&currentJobId=2277297074&eBP=JYMBII_JOBS_HOME_ORGANIC&pivotType=jymbii&refId=yjOMnRxGL8v1R6Btv%2FbELQ%3D%3D&start=24&trk=d_flagship3_job_home
 5753,User Experience Designer III,Expedia Group,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2280175600&pivotType=jymbii&start=48
-5754,Software Development Engineer - Amazon Robotics - 2021 Grad,Amazon,Company Website,https://www.amazon.jobs/en/jobs/1241746/software-development-engineer-amazon-robotics-2021-grad?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid
+5754,Software Development Engineer - Amazon Robotics - 2021 Grad,Amazon,LinkedIn,https://www.amazon.jobs/en/jobs/1241746/software-development-engineer-amazon-robotics-2021-grad?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid
 5755,Sr. Product Manager - eCommerce,Epicor Software,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2243951598&geoId=104472865&keywords=product%20manager&location=Austin%2C%20Texas%2C%20United%20States&start=50
 5756,Senior Product Manager,Unknown,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2294830905&geoId=104472865&keywords=product%20manager&location=Austin%2C%20Texas%2C%20United%20States&start=50
 5757,Senior Product Manager,"Conveyco Technologies, Inc.",LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2294830905&geoId=104472865&keywords=product%20manager&location=Austin%2C%20Texas%2C%20United%20States&start=50
@@ -5985,7 +5985,7 @@ Job ",Unknown,https://app.trinethire.com/companies/28574-the-commons-project/job
 5982,Marketing Analytics Data Scientist,Match Group,Lever,https://jobs.lever.co/matchgroup/e58fb8a9-60e9-48a9-bd60-e791472b1312/apply
 5983,Software Engineer - Client/Unity (Card Games),MobilityWare,Greenhouse,https://boards.greenhouse.io/mobilityware/jobs/2253455?gh_jid=2253455&gh_src=a11d84041us#app
 5984,Data Analyst,Randstad Staffing,Indeed,https://www.indeed.com/jobs?q=data%20analyst&l=California&fromage=3&advn=7295837491566098&vjk=5fc85f7096868546
-5985,Data Science Analyst,Paramount Pictures,Unknown,https://viacomcbscareers-viacomcbs.icims.com/jobs/15036/job?utm_source=indeed_integration&iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&mode=job&iis=Indeed&iisn=Indeed.com&mobile=false&width=960&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420
+5985,Data Science Analyst,Paramount Pictures,Indeed,https://viacomcbscareers-viacomcbs.icims.com/jobs/15036/job?utm_source=indeed_integration&iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&mode=job&iis=Indeed&iisn=Indeed.com&mobile=false&width=960&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420
 5986,"Software Engineer 1 - Web Development/DevOps (HQ - Olathe, KS)",Garmin International,Unknown,https://app.joinhandshake.com/jobs/3982312?ref=preview-header-click
 5987,Full Stack Software Developer,777 Partners,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2273336295&f_E=2&geoId=103575230&keywords=software&location=Irvine%2C%20California%2C%20United%20States
 5988,"Software Engineer, Generalist",Circle Media Labs Inc.,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2006363590&f_E=2&geoId=103575230&keywords=software&location=Irvine%2C%20California%2C%20United%20States
@@ -6284,7 +6284,7 @@ Job ",Unknown,https://app.trinethire.com/companies/28574-the-commons-project/job
 6281,Software Development Engineer,"
 Job ID: 1297121 | Amazon.com Services LLC
 Apply now
-",Company Website,https://www.amazon.jobs/en/jobs/1297121/software-development-engineer?mode=job&iis=Job+Posting&iisn=Indeed+(Free+Posting)&utm_source=indeed.com&utm_campaign=all_amazon&utm_medium=job_aggregator&utm_content=organic&dclid=CjkKEQiAqdP9BRDz5LrekZyHsY0BEiQAIUTu6Woqf8wbJtPTg2BYhENWIHtumh9PK0YTphEp77U8_dPw_wcB
+",Indeed,https://www.amazon.jobs/en/jobs/1297121/software-development-engineer?mode=job&iis=Job+Posting&iisn=Indeed+(Free+Posting)&utm_source=indeed.com&utm_campaign=all_amazon&utm_medium=job_aggregator&utm_content=organic&dclid=CjkKEQiAqdP9BRDz5LrekZyHsY0BEiQAIUTu6Woqf8wbJtPTg2BYhENWIHtumh9PK0YTphEp77U8_dPw_wcB
 6282,"",Unknown,Unknown,https://slickdeals.net/corp/careers.html?gh_jid=4966803002
 6283,Product Manager - Remote,Animoto,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2303444630&pivotType=jymbii&start=72
 6284,"Product Designer @ ClickUp, Product-led growth to 100,000 teams",ClickUp,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2313383843
@@ -6483,7 +6483,7 @@ Apply now
 6477,"New Grad, Software Engineer, HW/SW Co-Design",Cruise,Greenhouse,https://boards.greenhouse.io/cruise/jobs/2350698?gh_jid=2350698&gh_src=1xdap08r1&s=LinkedIn&source=LinkedIn#app
 6478,"New Grad, Software Engineer, Sensors Simulation",Cruise,Greenhouse,https://boards.greenhouse.io/cruise/jobs/2365733?gh_jid=2365733&gh_src=1xdap08r1&s=LinkedIn&source=LinkedIn#app
 6479,Front-End Software Engineer,Twitch,Greenhouse,https://boards.greenhouse.io/twitch/jobs/4965851002?gh_src=0c4ebc182#app
-6480,"Product Owner, Global Accounts Receivable",Creative Data Resources,Unknown,https://www1.jobdiva.com/portal/?a=8wjdnw8x8zb95w83eftefiry4b4i3r0115id5c5nkj28efl0nt84429rxssrhyf3&jobid=13539434#/jobs/13539434?compid=0&SearchString=&StatesString=&id=13539434&source=linkedin.com
+6480,"Product Owner, Global Accounts Receivable",Creative Data Resources,LinkedIn,https://www1.jobdiva.com/portal/?a=8wjdnw8x8zb95w83eftefiry4b4i3r0115id5c5nkj28efl0nt84429rxssrhyf3&jobid=13539434#/jobs/13539434?compid=0&SearchString=&StatesString=&id=13539434&source=linkedin.com
 6481,"",Unknown,Unknown,https://redjack.com/jobs/?gh_jid=4163810003&gh_src=7ce85fce3us&source=JobTarget%20via%20JobTarget%20Programmatic&utm_source=JobTarget&utm_medium=JobTarget%20Programmatic&utm_campaign=Junior%20Software%20Developer%20(4163810003)&_jtochash=OaLnY2FrO5zBfDWnCp42e&_jtocprof=I97Y3y_1ncai-sXnRRdK4uuiKwDjHrZy
 6482,"",Unknown,Unknown,https://www.gem.com/company/careers?gh_jid=4842855002
 6483,"",Unknown,Unknown,https://www.alphasights.com/careers/open-positions?gh_jid=2344277&region=the_americas&experience=All%20Experience%20Levels
@@ -6698,7 +6698,7 @@ Apply now
 6692,Computer Vision Engineer,Cubic Transportation Systems,Unknown,https://cubic.wd1.myworkdayjobs.com/en-US/cubic_USA_careers/job/USA-Knoxville-TN/Computer-Vision-Engineer_REQ_25252
 6693,Firmware Engineer,HYC USA Inc.,Indeed,https://www.indeed.com/jobs?q=(%22new%20grad%22%20OR%20%22new-grad%22%20OR%20%22entry%20level%22%20OR%20%22entry-level%22%20OR%20%22associate%20software%22%20OR%20%22junior%22%20OR%20%22jr.%20%22%20OR%20%22jr%22%20OR%20%20%E2%80%9C1%20year%E2%80%9D%20OR%20%E2%80%9C1-3%E2%80%9D%20OR%20%222%20years%22%20OR%20%E2%80%9Cone%20year%E2%80%9D)%20AND%20(%22firmware%22%20OR%20%22embedded%22)&l=California&fromage=7&vjk=645c5d616b52b8e5
 6694,"",Unknown,Unknown,https://herodigital.com/careers/current-openings/?gh_jid=2432240&gh_src=a054c7b41
-6695,Data Analyst,Lancesoft,Unknown,https://www2.jobdiva.com/portal/?a=3djdnw5yqdh8wl3frr5t6561tvvokq01affwpxt3lcutzo4f8yt1aeiy3msk02or&jobid=14092955#/jobs/14092955?compid=0&SearchString=&StatesString=&id=14092955&source=linkedin.com
+6695,Data Analyst,Lancesoft,LinkedIn,https://www2.jobdiva.com/portal/?a=3djdnw5yqdh8wl3frr5t6561tvvokq01affwpxt3lcutzo4f8yt1aeiy3msk02or&jobid=14092955#/jobs/14092955?compid=0&SearchString=&StatesString=&id=14092955&source=linkedin.com
 6696,Senior full stack software engineer,Round Rock Medical Device Company,Unknown,https://www.cybercoders.com/senior-full-stack-software-engineer-job-567931
 6697,Data Governance Analyst,Sogeti,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2279832023&f_C=157240%2C1075%2C1956%2C163711%2C33929275%2C505336&geoId=92000000
 6698,Data Engineer,Adobe,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2291630081&pivotType=jymbii
@@ -7173,7 +7173,7 @@ Apply now
 7167,Junior Java Software Engineer,Accenture,Company Website,https://www.accenture.com/us-en/careers/jobdetails?id=00884188_en&src=LINKEDINJP
 7168,Software Enginer (Backend),TikTok,Company Website,https://careers.tiktok.com/position/detail/6893590379792697608
 7169,Strategy & Development Associate,Strive Health,LinkedIn,https://www.linkedin.com/jobs/search/?geoId=103644278&keywords=strategy&location=United%20States
-7170,Software Engineer,Frontdoor,Company Website,https://frontdoor.jobs/memphis-tn/software-engineer/5D8BAC4799EA4735A7236D6F1C1D2ACF/job/?vs=1606&utm_source=LinkedIn.com-DE&utm_medium=Social%20Media&utm_campaign=LinkedIn.com
+7170,Software Engineer,Frontdoor,LinkedIn,https://frontdoor.jobs/memphis-tn/software-engineer/5D8BAC4799EA4735A7236D6F1C1D2ACF/job/?vs=1606&utm_source=LinkedIn.com-DE&utm_medium=Social%20Media&utm_campaign=LinkedIn.com
 7171,Software Developer - Java,Jobot,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2295931223&pivotType=jymbii
 7172,Software Developer,Nemadji,Company Website,https://nemadji.org/careers/software-developer
 7173,Data Scientist - Analytics,Wealthfront,Lever,https://jobs.lever.co/wealthfront/1e79e543-eaf5-434a-acfa-2ddf0488043d?lever-origin=applied&lever-source%5B%5D=LinkedIn%20Premium
@@ -7433,7 +7433,7 @@ Apply now
 7427,Software Engineer,Bank Of America,Unknown,https://wd1.myworkdaysite.com/en-US/recruiting/paypal/jobs/jobs?Codes=W-LINKEDIN
 7428,"",Unknown,Unknown,https://flatiron.com/careers/open-positions/2373811?gh_jid=2373811
 7429,Software Engineer - New Grad,Plaid inc,Company Website,https://plaid.com/job/?id=32597039-3497-4876-ad70-c23d95f55d32
-7430,Software Development Engineer,Amazon,Company Website,https://www.amazon.jobs/en/jobs/1235176/software-development-engineer?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid
+7430,Software Development Engineer,Amazon,LinkedIn,https://www.amazon.jobs/en/jobs/1235176/software-development-engineer?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid
 7431,Analyst,Pegasus Tech Ventures,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2279639401&pivotType=jymbii
 7432,Software Engineer,Apple,Company Website,https://jobs.apple.com/en-us/details/200203200/software-engineer
 7433,Design Apprenticeship: Designer/Frontend Engineer,Nava,Lever,https://jobs.lever.co/nava/b348bae4-d639-42f9-a386-36a8bd642600
@@ -7478,7 +7478,7 @@ Apply now
 7472,Full-Stack Engineer,"Lumanu, Inc.",Lever,https://jobs.lever.co/lumanu/ecc906bc-66a6-4ebf-a452-616730ee9cbc/apply
 7473,Financial Analyst - Instagram,Facebook,Unknown,
 7474,Program/product Manager kind of role,Brandzooka,Unknown,
-7475,Web Developer,Mondo,Unknown,https://www1.jobdiva.com/portal/?a=34jdnwkiflrbqcfuti4l8834luxl4200524a3dhkdlwe9cwh0aawazosqagj3lcq&jobid=15039347#/jobs/15039347?compid=0&SearchString=&StatesString=&id=15039347&source=linkedin.com
+7475,Web Developer,Mondo,LinkedIn,https://www1.jobdiva.com/portal/?a=34jdnwkiflrbqcfuti4l8834luxl4200524a3dhkdlwe9cwh0aawazosqagj3lcq&jobid=15039347#/jobs/15039347?compid=0&SearchString=&StatesString=&id=15039347&source=linkedin.com
 7476,"",Unknown,Unknown,https://www.imprivata.com/company/join-team?p=job%2Fok4tdfwO%2Fapply&__jvst=Job+Board&__jvsd=LinkedIn_Featured&nl=1
 7477,System Software Engineer,Micron Systems,Company Website,https://jobs.micron.com/job/Austin%2C-TX-System-Software-Engineer-TX/691962400/?feedId=1981&utm_source=LinkedInJobPostings&utm_campaign=Micron&src=JB-12600
 7478,(College) Software Developer,Paycom,Company Website,https://pc00.paycomonline.com/v4/ats/web.php/jobs/ViewJobDetails?job=11986&clientkey=A38173AIE92874820ALRE20847CDE927PIW76526
@@ -7502,7 +7502,7 @@ Apply now
 7496,Design Systems Lead,Commure Inc.,Lever,https://jobs.lever.co/commure/16f95d05-2d00-468d-911b-c3b08100d110/apply
 7497,Software Development Engineer I,LivePerson,Greenhouse,https://boards.greenhouse.io/embed/job_app?token=2403880&gh_src=fc870eec1
 7498,"",Unknown,Unknown,http://careers.masterclass.com/job.html?gh_jid=1822279
-7499,Clinical Data Scientist,Otsuka Pharmaceuticals,Unknown,https://vhr-otsuka.wd1.myworkdayjobs.com/en-US/External/job/Princeton/Clinical-Data-Scientist_R279?mode=job&iis=Job+Board+-+Indeed&iisn=Indeed.com
+7499,Clinical Data Scientist,Otsuka Pharmaceuticals,Indeed,https://vhr-otsuka.wd1.myworkdayjobs.com/en-US/External/job/Princeton/Clinical-Data-Scientist_R279?mode=job&iis=Job+Board+-+Indeed&iisn=Indeed.com
 7500,Finance & Strategy Manager - Capital,Squarespace,Unknown,
 7501,PM,Match Group,Unknown,
 7502,Software Engineer,WAVE.tv,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2317111068&f_E=1%2C2&f_JT=F%2CC%2CI&f_TPR=r604800&geoId=103644278&keywords=software%20engineer&location=United%20States&start=25
@@ -8150,9 +8150,9 @@ Apply now
 8144,Business Analyst - Marketing Automation,The Talent Source Inc,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2298643845&pivotType=jymbii
 8145,"Intern, SW Engineering",Mercedes-Benz R&D North America,Lever,https://jobs.lever.co/MBRDNA/a16249fb-b2c8-4459-93a3-737921f17676/apply
 8146,Entry Level Programmer,Tetra Tech,Unknown,https://tetratech.referrals.selectminds.com/jobs/entry-level-programmer-19097?source=SNS-10160
-8147,Engineer I - Software,Dish,Company Website,https://jobs.dish.com/jobs/53155?mode=job&iis=Job+Board&iisn=LinkedIN.COM
+8147,Engineer I - Software,Dish,LinkedIn,https://jobs.dish.com/jobs/53155?mode=job&iis=Job+Board&iisn=LinkedIN.COM
 8148,Software Engineering Intern,Karat,Greenhouse,https://boards.greenhouse.io/karat/jobs/4252508002#app
-8149,SWE,Clever,Company Website,https://clever.com/about/careers/software-engineer-new-grad#gh_jid=2388626
+8149,SWE,Clever,Lever,https://clever.com/about/careers/software-engineer-new-grad#gh_jid=2388626
 8150,Merchandise Data Analyst,Finish Line,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2317013318&pivotType=jymbii&start=24
 8151,Consumer Insights Analyst,Power Crunch,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2298646024&pivotType=jymbii&start=24
 8152,Agile Business Analyst,Synectics Inc.,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2304972606&pivotType=jymbii&start=24
@@ -8198,7 +8198,7 @@ Apply now
 8192,Software Engineer (Java),CyberCoders,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2295993045&pivotType=jymbii&start=168
 8193,Software Engineer,IT Avalon,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2286304357&pivotType=jymbii&start=168
 8194,Analytics Engineer,Jaanuu,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2317233926&f_E=2&f_JT=F&f_TPR=r604800&keywords=data%20engineer&start=50
-8195,Machine Learning Researcher (Data Scientist),Dell,Company Website,https://jobs.dell.com/job/-/-/375/17745881?src=sns-102&utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=various&utm_content=global&utm_term=239560390&ss=paid&dclid=CM-v8e6rnu0CFQW0yAodd_YCXQ
+8195,Machine Learning Researcher (Data Scientist),Dell,LinkedIn,https://jobs.dell.com/job/-/-/375/17745881?src=sns-102&utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=various&utm_content=global&utm_term=239560390&ss=paid&dclid=CM-v8e6rnu0CFQW0yAodd_YCXQ
 8196,Cloud Application Engineer,Maven Wave Partners,Jobvite,http://jobs.jobvite.com/maven-wave-partners/job/okBscfwj/apply?__jvst=Job%20Board&__jvsd=Built_In_Chicago
 8197,Software Engineer - Frontend,"Rocket Travel, Inc.",Greenhouse,https://boards.greenhouse.io/rocketmiles/jobs/1626766#app
 8198,Analytics Engineer,Great Jones,Greenhouse,https://boards.greenhouse.io/greatjones/jobs/4243166003?gh_src=4f2fe8a63us#app
@@ -8936,7 +8936,7 @@ Apply now
 8928,Python Developer,Creative Financial Staffing (CFS),Unknown,https://www.cfstaffing.com/index.php/jobs/detail/MN/Minneapolis/Python+Developer-+Opportunity+for+Advancement/EB-1593217337/wpbh_Id/
 8929,Python Developer,EITACIES INC,Unknown,https://www.dice.com/jobs/detail/ff8d854c3450190af3fab8d585c7af4d?src=32&utm_source=appcast&utm_medium=aggregator&utm_campaign=xpatjobs
 8930,Java Backend Developer,Enfec,Unknown,https://www.dice.com/jobs/detail/534903881bcbcec8da64a1258439440f?src=32&utm_source=appcast&utm_medium=aggregator&utm_campaign=linkedin-organic
-8931,Java Developer,Mindteck,Unknown,https://www2.jobdiva.com/portal/?a=kvjdnwdn327a7n5ruu6la3dlp3v5jn02edhed1tlm3ajr002wexcrb05oab715e1&jobid=14135800#/jobs/14135800?compid=0&SearchString=&StatesString=&id=14135800&source=linkedin.com
+8931,Java Developer,Mindteck,LinkedIn,https://www2.jobdiva.com/portal/?a=kvjdnwdn327a7n5ruu6la3dlp3v5jn02edhed1tlm3ajr002wexcrb05oab715e1&jobid=14135800#/jobs/14135800?compid=0&SearchString=&StatesString=&id=14135800&source=linkedin.com
 8932,2021 University Graduate - Software Engineer in Machine Learning,Adobe,LinkedIn,https://www.linkedin.com/jobs/search/?pivotType=jymbii&currentJobId=2224728729
 8933,Quantitative Developer,"Freelance, self-employed",LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2291841197&f_E=2&keywords=quant
 8934,Full-Stack Engineer,ShipEngine,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2299943155&pivotType=jymbii
@@ -8964,7 +8964,7 @@ Apply now
 8956,Python Developer,Booker DiMaio,Unknown,https://app.jobsflag.com/beta/c/apply?affid=209&ci=17&jl=B316546002
 8957,Junior Product Manager,Bookedby,Unknown,
 8958,"",Unknown,Unknown,https://www.pathai.com/careers/4953761002?gh_jid=4953761002
-8959,"",Unknown,Unknown,https://clever.com/about/careers/software-engineer-new-grad#gh_jid=2388626
+8959,"",Unknown,Lever,https://clever.com/about/careers/software-engineer-new-grad#gh_jid=2388626
 8960,Product Manager (Software),Hcss,Greenhouse,https://boards.greenhouse.io/hcss/jobs/2337800?s=linkedin&source=linkedin#app
 8961,Data Analyst,Substack Inc,Lever,https://jobs.lever.co/substackinc/886334e3-ef9f-4e88-8109-93f559c56805/apply
 8962,Technical Product Analyst,Flipt,Greenhouse,https://boards.greenhouse.io/fliptrx/jobs/4176447003
@@ -9387,7 +9387,7 @@ View My Submitted ApplicationSearch for Jobs
 9374,"",Unknown,Unknown,https://code3.com/open_positions.html?gh_jid=2391914
 9375,N/A,TopDevz,Unknown,
 9376,"",Unknown,Unknown,https://www.pangaea.holdings/careers?gh_jid=4978632002&gh_src=d10f87712us
-9377,Python Developer,Epam,Company Website,https://www.epam.com/careers/job-listings/job.55223?utm_source=LinkedIn.com&utm_medium=job_post&utm_campaign=LinkedIn_Job_Slots
+9377,Python Developer,Epam,LinkedIn,https://www.epam.com/careers/job-listings/job.55223?utm_source=LinkedIn.com&utm_medium=job_post&utm_campaign=LinkedIn_Job_Slots
 9378,Optimization Engineer,Facebook,Company Website,https://www.facebook.com/careers/jobs/546884536004823/
 9379,BI Developer/Analyst,Weyerhaeuser,LinkedIn,https://www.linkedin.com/jobs/view/bi-developer-analyst-at-weyerhaeuser-2298307208/
 9380,Business Integration Analyst,Eversource,LinkedIn,https://www.linkedin.com/jobs/view/2304923499/?refId=6952606511606768794992&trackingId=UsE9uInaPQOIxhG6xRE4ZA%3D%3D
@@ -9617,7 +9617,7 @@ View My Submitted ApplicationSearch for Jobs
 9604,"Software Engineer, New Grad",Palantir Technologies,Lever,https://jobs.lever.co/palantir/01dab70c-073c-4a22-bf76-fb6b9e0a75b0/apply
 9605,Consultant,Kaiser Associates,Unknown,
 9606,Associate User Experience Designer,Moody's Analytics,Unknown,https://www.moodys.jobs/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25546&siteid=5212&jobId=1861217&Codes=LINKEDIN#Applypage
-9607,Designer,Mondo A/S,Unknown,https://www1.jobdiva.com/portal/?a=34jdnwkiflrbqcfuti4l8834luxl4200524a3dhkdlwe9cwh0aawazosqagj3lcq&jobid=15151420#/jobs/15151420?compid=0&SearchString=&StatesString=&id=15151420&source=linkedin.com
+9607,Designer,Mondo A/S,LinkedIn,https://www1.jobdiva.com/portal/?a=34jdnwkiflrbqcfuti4l8834luxl4200524a3dhkdlwe9cwh0aawazosqagj3lcq&jobid=15151420#/jobs/15151420?compid=0&SearchString=&StatesString=&id=15151420&source=linkedin.com
 9608,"",Unknown,Unknown,https://www.hudsonrivertrading.com/careers/job/?gh_jid=86641
 9609,Data Analyst,Evil Geniuses,Greenhouse,https://boards.greenhouse.io/evilgeniuses/jobs/2448788?s=LinkedIn&source=LinkedIn
 9610,Robotics Strategy and Operations Manager,Cruise,Unknown,
@@ -10098,12 +10098,12 @@ Harness",AngelList,https://angel.co/company/harness-4/jobs/1063909-sales-operati
 10084,Data Engineer,"Techaxis, Inc",LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2294477435&f_E=2%2C3&f_TPR=r86400&geoId=103644278&keywords=data%20engineer&location=United%20States
 10085,Software Engineer,Pattern Ag,Lever,https://jobs.lever.co/patternag/574425a2-71f2-4b04-8dfc-3a153176232c/apply
 10086,Junior Software Engineer ,Lodestone,Greenhouse,https://boards.greenhouse.io/lodestone/jobs/4256155003?gh_src=ac3f7c933us#app
-10087,Salesforce Associate (Industrial Products & Energy),PwC,Company Website,https://jobs.us.pwc.com/job/-/-/932/18126608?utm_source=linkedin.com&utm_campaign=core_media&utm_medium=social_media&utm_content=job_posting&ss=paid&dclid=CjgKEAiAk53-BRDMtcLKw5Wugy8SJAD8bPwOFrCf6SLukWmNJrBLAjD4knrU_sxybfGPYOJ_zVAfLPD_BwE
+10087,Salesforce Associate (Industrial Products & Energy),PwC,LinkedIn,https://jobs.us.pwc.com/job/-/-/932/18126608?utm_source=linkedin.com&utm_campaign=core_media&utm_medium=social_media&utm_content=job_posting&ss=paid&dclid=CjgKEAiAk53-BRDMtcLKw5Wugy8SJAD8bPwOFrCf6SLukWmNJrBLAjD4knrU_sxybfGPYOJ_zVAfLPD_BwE
 10088,"Front End Engineer, Intern/Co-op",Facebook,Company Website,https://www.facebook.com/careers/jobs/621566125373936/
 10089,Marketing Analyst,DailyPay Inc,Greenhouse,https://boards.greenhouse.io/dailypayinc/jobs/4974167002?gh_src=2d446d382us
 10090,Business Analyst - Sales Enablement - Remote,Sprinklr,Greenhouse,https://boards.greenhouse.io/sprinklr/jobs/4243011003
 10091,Software engineer,Datica,Unknown,https://app.trinethire.com/companies/31732-datica/jobs/31586-software-engineer
-10092,Front-End Web Developer,Mondo,Unknown,https://www1.jobdiva.com/portal/?a=34jdnwkiflrbqcfuti4l8834luxl4200524a3dhkdlwe9cwh0aawazosqagj3lcq&jobid=15153858#/jobs/15153858?compid=0&SearchString=&StatesString=&id=15153858&source=linkedin.com
+10092,Front-End Web Developer,Mondo,LinkedIn,https://www1.jobdiva.com/portal/?a=34jdnwkiflrbqcfuti4l8834luxl4200524a3dhkdlwe9cwh0aawazosqagj3lcq&jobid=15153858#/jobs/15153858?compid=0&SearchString=&StatesString=&id=15153858&source=linkedin.com
 10093,Software engineer - backend,indico Data,AngelList,https://angel.co/company/indico-data-solutions/jobs/1055680-software-engineer-backend
 10094,Director Risk Based Monitoring and Patient Programs,BeiGen,Unknown,
 10095,Software Engineer,The Phoenix Group,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2315047069&pivotType=jymbii&start=24
@@ -10234,7 +10234,7 @@ Harness",AngelList,https://angel.co/company/harness-4/jobs/1063909-sales-operati
 10220,Software Engineer,Aviatrix Systems,Unknown,
 10221,MFG Test Engineer,Variant Pharmaceuticals,Unknown,https://varian.wd5.myworkdayjobs.com/en-US/varianexternal/job/Palo-Alto-CA/MFG-Test-Engineer_R-5126-1
 10222,"",Unknown,Unknown,https://nutanix.eightfold.ai/careers?pid=2175907&location=United%20States&location_distance_km=100&recommended=1#apply
-10223,Data Scientist - Ads Measurement Science,Amazon,Company Website,https://www.amazon.jobs/en/jobs/1349278/data-scientist-ads-measurement-science?mode=job&iis=Job+Posting&iisn=Indeed+(Free+Posting)&utm_source=indeed.com&utm_campaign=all_amazon&utm_medium=job_aggregator&utm_content=organic&dclid=CP-p4I2XsO0CFcQBDAod3b8MMg
+10223,Data Scientist - Ads Measurement Science,Amazon,Indeed,https://www.amazon.jobs/en/jobs/1349278/data-scientist-ads-measurement-science?mode=job&iis=Job+Posting&iisn=Indeed+(Free+Posting)&utm_source=indeed.com&utm_campaign=all_amazon&utm_medium=job_aggregator&utm_content=organic&dclid=CP-p4I2XsO0CFcQBDAod3b8MMg
 10224,Product Manager- AIOP,Nutanix,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2313584057&f_E=2%2C3%2C4&f_SB2=4&f_T=27%2C270&f_TPR=r86400&geoId=103644278&keywords=product%20manager&location=United%20States&start=50
 10225,"Product Manager - Mapping, Autonomous Vehicles ","TuSimple, Inc.",Greenhouse,https://boards.greenhouse.io/tusimplerelocationjobs/jobs/4981889002?gh_src=3b7b0d3d2us
 10226,"Software engineer (Michael Brinn, Amir kashani, and Christopher malley",Rackspace Technology,Lever,https://jobs.lever.co/rackspace/a4046c4c-5942-4e2b-9cfd-5c48bcc63f18
@@ -10606,7 +10606,7 @@ Harness",AngelList,https://angel.co/company/harness-4/jobs/1063909-sales-operati
 10592,B2B Marketing Manager,CARE+WEAR,Unknown,https://www.builtinnyc.com/job/marketing/b2b-marketing-manager/81991
 10593,Product Manager,Cogito,Lever,https://jobs.lever.co/cogitocorp/9df80539-69ef-4def-b0d1-2aa1828af0c4/apply
 10594,Software Engineer - Campus Entry-Level,"PEAK6 Investments, L.P.",Greenhouse,https://boards.greenhouse.io/capitalmanagement/jobs/2259594
-10595,Data Scientist II,Ryder ,Company Website,https://jobs.ryder.com/houston-tx/data-scientist-ii/C8D2A68FB8274DC6BA65C395E1312BF7/job/?vs=1606&utm_source=LinkedIn.com-DE&utm_medium=Social%20Media&utm_campaign=LinkedIn.com
+10595,Data Scientist II,Ryder ,LinkedIn,https://jobs.ryder.com/houston-tx/data-scientist-ii/C8D2A68FB8274DC6BA65C395E1312BF7/job/?vs=1606&utm_source=LinkedIn.com-DE&utm_medium=Social%20Media&utm_campaign=LinkedIn.com
 10596,Technical Project Manager,Castlight Health,Jobvite,https://jobs.jobvite.com/castlighthealth/job/oClUdfwO/apply
 10597,Software Engineer - New Grad,Plaid,Lever,https://jobs.lever.co/plaid/32597039-3497-4876-ad70-c23d95f55d32/apply
 10598,Software Engineer- Backend (Plaid Exchange),Plaid,Lever,https://jobs.lever.co/plaid/8eee1e11-2045-4dca-b9a2-62b0938eaf24/apply
@@ -10735,7 +10735,7 @@ Harness",AngelList,https://angel.co/company/harness-4/jobs/1063909-sales-operati
 10721,SWE,Sentry,Greenhouse,https://boards.greenhouse.io/sentry/jobs/2516449
 10722,"Associate Product Manager, Intern",Duolingo,Greenhouse,https://boards.greenhouse.io/duolingo/jobs/4833225002
 10723,Software Engineer - Machine Learning (Remote),Quora,Greenhouse,https://boards.greenhouse.io/quora/jobs/4829214002?gh_src=fa1aa7222&s=LinkedIn&source=LinkedIn#app
-10724,Entry Level DevOps Engineer,Boeing,Unknown,https://www.ihttps://www.indeed.com/rc/clk?jk=0a4478027b65037b&fccid=edae4285faf6c2f0&vjs=3ndeed.com/jobs?q=Entry%20Level%20Software%20Engineer&l=Bellevue%2C%20WA&vjk=0a4478027b65037b
+10724,Entry Level DevOps Engineer,Boeing,Indeed,https://www.ihttps://www.indeed.com/rc/clk?jk=0a4478027b65037b&fccid=edae4285faf6c2f0&vjs=3ndeed.com/jobs?q=Entry%20Level%20Software%20Engineer&l=Bellevue%2C%20WA&vjk=0a4478027b65037b
 10725,Entry Level Site Reliability Engineer,"Boeing Defense, Space & Security",Company Website,https://jobs.boeing.com/job/-/-/185/18157277?utm_source=Indeed&utm_medium=organic&utm_campaign=Indeed
 10726,Frontend Engineer,SupplyHive,LinkedIn,https://www.linkedin.com/jobs/search/?alternateChannel=jymbii&alternateCode=seturl&currentJobId=2328673968&eBP=JYMBII_JOBS_HOME_ORGANIC&pivotType=jymbii&refId=wyudV3Qw4EvjQT8jNJ0U7g%3D%3D&start=0&trk=d_flagship3_job_home
 10727,"Software Engineer - UP TO $210,000",Exlyst,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2298072485&f_E=2%2C3&f_TPR=r86400&geoId=103644278&keywords=software%20engineer&location=United%20States
@@ -10925,8 +10925,8 @@ Harness",AngelList,https://angel.co/company/harness-4/jobs/1063909-sales-operati
 10911,Data Scientist 2,Oracle,Glassdoor,"https://www.glassdoor.com/Job/portland-data-scientist-jobs-SRCH_IL.0,8_IC1151614_KO9,23.htm?fromAge=7"
 10912,Data Analyst,Pocket Gems,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2313573863&f_TPR=r604800&geoId=90000084&keywords=data%20analyst&location=San%20Francisco%20Bay%20Area
 10913,"Software Engineer, Backend / Infrastructure",Alchemy,Lever,https://jobs.lever.co/alchemy/e0ca28aa-b1ac-458c-b811-cf5b914cfb49/apply
-10914,"Data Scientist, Ecomonics",Audible,Unknown,https://www.amazon.jobs/en/jobs/1365209/data-scientist-economics?mode=job&iis=Job+Posting&iisn=Indeed+(Free+Posting)&utm_source=indeed.com&utm_campaign=all_amazon&utm_medium=job_aggregator&utm_content=organic&dclid=CK22hKeate0CFc-gnwod_rgDkw
-10915,Machine Learning Engineer,Namix Information Technology Staffing,Unknown,https://www1.jobdiva.com/portal/?a=b3jdnwz8kfr1dpb25j2qz9j2c6s0xn05f278amjrvw22rixj50z456ntcksu05j7&jobid=13849175#/jobs/13849175?compid=0&SearchString=&StatesString=&id=13849175&source=linkedin.com
+10914,"Data Scientist, Ecomonics",Audible,Indeed,https://www.amazon.jobs/en/jobs/1365209/data-scientist-economics?mode=job&iis=Job+Posting&iisn=Indeed+(Free+Posting)&utm_source=indeed.com&utm_campaign=all_amazon&utm_medium=job_aggregator&utm_content=organic&dclid=CK22hKeate0CFc-gnwod_rgDkw
+10915,Machine Learning Engineer,Namix Information Technology Staffing,LinkedIn,https://www1.jobdiva.com/portal/?a=b3jdnwz8kfr1dpb25j2qz9j2c6s0xn05f278amjrvw22rixj50z456ntcksu05j7&jobid=13849175#/jobs/13849175?compid=0&SearchString=&StatesString=&id=13849175&source=linkedin.com
 10916,"Financial Associate, Facebook Financials",Facebook,Unknown,
 10917,Implementation Consultant,Fast Enterprises,Unknown,https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b7aa006-9f87-4053-8b6c-80f5120b13d6&jobId=122443&lang=en_US&source=CC645242
 10918,Software Engineer,Jobot,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2311426699&pivotType=jymbii&start=24
@@ -11047,7 +11047,7 @@ Harness",AngelList,https://angel.co/company/harness-4/jobs/1063909-sales-operati
 11033,EMBEDDED FIRMWARE DEVELOPER: ENGINEER / IT BCKGND,PeopleFind,Indeed,https://ca.indeed.com/viewjob?from=iaBackPress&hl=en&jk=e4e3446d9a73f6dc&tk=1eollav3mu1rp800
 11034,Data Scientist,Deliverr ,Company Website,https://deliverr.com/career/?gh_jid=4010447003&gh_src=f426631e3
 11035,Social Media Marketing Intern,The Corcoran Group,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2313027557&f_C=7178&geoId=92000000
-11036,Business Intelligence Engineer,Amazon,Company Website,https://www.amazon.jobs/en/jobs/1354449/business-intelligence-engineer?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid
+11036,Business Intelligence Engineer,Amazon,LinkedIn,https://www.amazon.jobs/en/jobs/1354449/business-intelligence-engineer?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid
 11037,"Data Analyst, Product",Jam City,Lever,https://jobs.lever.co/jamcity/bef7366e-9852-4fd5-a8db-93a99319aefb/apply
 11038,Business Intelligence Analyst,Twitter,Company Website,https://careers.twitter.com/en/work-for-twitter/202010/a80c7383-dbc4-417d-8c4d-a13b774f3848/0b701149-eb02-425f-b955-04bf7c8b84da.html/business-intelligence-analyst.html
 11039,Machine Learning Engineer Intern,Sony Interactive Entertainment PlayStation,Greenhouse,https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/2383125
@@ -11737,9 +11737,9 @@ Harness",AngelList,https://angel.co/company/harness-4/jobs/1063909-sales-operati
 11723,"",Unknown,Google,https://drive.google.com/drive/u/0/folders/1bOm1F--3V4E4I1MFUw-hmkClMHIbmK4-
 11724,Data Scientist,Dataiku,Lever,https://jobs.lever.co/dataiku/3d4f8664-3762-40a6-89ee-cf00ece474e6/apply
 11725,Firmware Engineer,Fetch Robotics,Greenhouse,https://boards.greenhouse.io/fetchrobotics/jobs/4218628003?gh_src=c8f6c7cb3us#app
-11726,"",Unknown,Unknown,https://clever.com/about/careers/partner-engineer#gh_jid=177168#gh_jid=177168
-11727,"",Unknown,Unknown,https://clever.com/about/careers/software-engineer-new-grad#gh_jid=2388626
-11728,"",Unknown,Unknown,https://clever.com/about/careers/software-engineering-internship#gh_jid=6194
+11726,"",Unknown,Lever,https://clever.com/about/careers/partner-engineer#gh_jid=177168#gh_jid=177168
+11727,"",Unknown,Lever,https://clever.com/about/careers/software-engineer-new-grad#gh_jid=2388626
+11728,"",Unknown,Lever,https://clever.com/about/careers/software-engineering-internship#gh_jid=6194
 11729,Demand Planner,24 Seven Talent,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2282698775&pivotType=jymbii
 11730,Data Scientist,Venture Search,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2318361186&f_LF=f_AL&f_TPR=r604800&keywords=data%20scientist&start=25
 11731,Data Scientist,Dataminr,Greenhouse,https://boards.greenhouse.io/dataminr/jobs/2529186?gh_src=q3lcj21#app
@@ -11835,7 +11835,7 @@ Harness",AngelList,https://angel.co/company/harness-4/jobs/1063909-sales-operati
 11821,Front-End Engineer,Yield,Unknown,http://cryptocurrencyjobs.co
 11822,"",Unknown,Unknown,https://www.onemedical.com/careers/all-departments/2390308/?gh_src=e4ae61d71
 11823,Software Engineer,Capital One,Company Website,https://www.capitalonecareers.com/job/-/-/1732/18015812?p_uid=6BY7PKRDBL&utm_term=271511234&utm_campaign=enterprise_tech_2020&p_sid=-D9m6xb&utm_content=pj_board&ss=paid&utm_medium=jobad&utm_source=indeed&dclid=CjkKEQiAzNj9BRC7ocTHl467kukBEiQAw-kPKB-XBJ2UNBgxruISToRGEsc61J0RKEhDuLknXCYXEFXw_wcB
-11824,Operations Consulting - Merchandising Manager,PwC,Company Website,https://jobs.us.pwc.com/job/-/-/932/17849258?utm_source=linkedin.com&utm_campaign=core_media&utm_medium=social_media&utm_content=job_posting&ss=paid&dclid=CjkKEQiAzNj9BRC7ocTHl467kukBEiQAw-kPKJU9el7VFj-0ZshxVd_rwj0OuQwzAkccb0uD--oYLZzw_wcB
+11824,Operations Consulting - Merchandising Manager,PwC,LinkedIn,https://jobs.us.pwc.com/job/-/-/932/17849258?utm_source=linkedin.com&utm_campaign=core_media&utm_medium=social_media&utm_content=job_posting&ss=paid&dclid=CjkKEQiAzNj9BRC7ocTHl467kukBEiQAw-kPKJU9el7VFj-0ZshxVd_rwj0OuQwzAkccb0uD--oYLZzw_wcB
 11825,Product Manager- North America,Re-Leased,Greenhouse,https://boards.greenhouse.io/released/jobs/4250428003?s=LinkedIn&source=LinkedIn#app
 11826,Web Developer,nOCD,SmartRecruiters,https://www.smartrecruiters.com/NOCD/743999724753925-web-developer
 11827,Software Engineer,authentic digital agency,LinkedIn,https://www.linkedin.com/jobs/search/?pivotType=jymbii&currentJobId=2319332162
@@ -11890,7 +11890,7 @@ Harness",AngelList,https://angel.co/company/harness-4/jobs/1063909-sales-operati
 11876,Associate Product Manager,Teltech Systems,Company Website,https://teltech.co/careers?gh_jid=4981741002
 11877,Data Analyst - Marketing Analytics,Redfin Network,Unknown,https://redfin.wd1.myworkdayjobs.com/en-US/redfin_careers/jobs
 11878,"",Unknown,Unknown,https://www.gutcheckit.com/about-us/careers/postings/?gh_jid=2443437&gh_src=1bbbf6831us
-11879,Product Designer,Unknown,Unknown,https://careers.execu-search.com/jobs/262840?utm_source=linkedin.com&utm_medium=paid&utm_campaign=linkedin.com_jobs
+11879,Product Designer,Unknown,LinkedIn,https://careers.execu-search.com/jobs/262840?utm_source=linkedin.com&utm_medium=paid&utm_campaign=linkedin.com_jobs
 11880,"",Unknown,Unknown,https://www.allbirds.com/pages/careers?gh_jid=2472627&gh_src=e9f002411us
 11881,Data Analyst,Insurify,Lever,https://jobs.lever.co/insurify/90943fce-12f0-42e3-85e3-de55fae5a977/apply
 11882,Product Manager,Venture Backed Stealth Startup,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2286304531&f_TPR=r86400&keywords=associate%20product%20manager
@@ -12122,7 +12122,7 @@ Harness",AngelList,https://angel.co/company/harness-4/jobs/1063909-sales-operati
 12108,"",Unknown,Unknown,https://www.flockfreight.com/about-us/careers/jobs/?gh_jid=4218996003&gh_src=8a7858703us
 12109,Junior Software Engineer,SteelSeries,LinkedIn,https://www.linkedin.com/jobs/view/2311675819/
 12110,Business Analyst/Product Owner,"SilverSearch, Inc.",LinkedIn,https://www.linkedin.com/jobs/view/2321031388/?refId=dPWs2XSJbm4D32HCzZPbGw%3D%3D
-12111,"Data Scientist – Santa Ana, CA or Telecommute",UnitedHealth Group,Company Website,https://careers.unitedhealthgroup.com/job/11804184/?utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=branding&utm_term=linkedin_organic_job_postings&utm_content=na_na_na_na&Taleo_ID=JB-14948
+12111,"Data Scientist – Santa Ana, CA or Telecommute",UnitedHealth Group,LinkedIn,https://careers.unitedhealthgroup.com/job/11804184/?utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=branding&utm_term=linkedin_organic_job_postings&utm_content=na_na_na_na&Taleo_ID=JB-14948
 12112,Solutions Project Manager - Fintech (US Remote),33 Talent,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2304919718&f_CR=103644278&f_LF=f_AL&geoId=92000001&keywords=senior%20business%20analyst&location=Remote
 12113,Senior Business Analyst (Analytic Products),VF Corporation,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2337855662&pivotType=jymbii
 12114,Junior Software Engineer,Steelseries,Company Website,http://careers.steelseries.com/apply/R7hA31hUMS/Junior-Software-Engineer?source=LILI#R7hA31hUMS
@@ -12374,7 +12374,7 @@ Harness",AngelList,https://angel.co/company/harness-4/jobs/1063909-sales-operati
 12360,Data Engineer,Ibotta,Unknown,https://ibotta.ruutly.com/job/2325389#application
 12361,Software Engineer I,Zulily,Unknown,https://qvc.wd5.myworkdayjobs.com/en-US/QRG/job/USA-WA-Seattle/Software-Engineer-I_R49549
 12362,Junior Data Scientist – Performance Analytics,Marina Maher Communications,Unknown,https://careers-hellommc.icims.com/jobs/1463/junior-data-scientist-%e2%80%93-performance-analytics/job?mobile=false&width=1245&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240
-12363,Business Analyst,Amazon,Company Website,https://www.amazon.jobs/en/jobs/1350859/business-analyst?mode=job&iis=Job+Posting&iisn=Indeed+(Free+Posting)&utm_source=indeed.com&utm_campaign=all_amazon&utm_medium=job_aggregator&utm_content=organic&dclid=CjkKEQiAzNj9BRC7ocTHl467kukBEiQAw-kPKLFkBSDab6VaQhcBmKE39Mu2erS5Gjjj7UUHrCoR9oPw_wcB
+12363,Business Analyst,Amazon,Indeed,https://www.amazon.jobs/en/jobs/1350859/business-analyst?mode=job&iis=Job+Posting&iisn=Indeed+(Free+Posting)&utm_source=indeed.com&utm_campaign=all_amazon&utm_medium=job_aggregator&utm_content=organic&dclid=CjkKEQiAzNj9BRC7ocTHl467kukBEiQAw-kPKLFkBSDab6VaQhcBmKE39Mu2erS5Gjjj7UUHrCoR9oPw_wcB
 12364,Ux/Ui Designer,Card Kingdom,Unknown,"http://about us card kingdom is an online retailer that specializes in selling and buying magic: the gathering singles. noted for their love of the community and game, card kingdom serves gamers all over the world. in addition to its ecommerce business, card kingdom owns and operates the award-winning game store and restaurant, mox boarding house, with locations in seattle and bellevue, and coming soon to portland.  card kingdom’s headquarters are located on queen anne, and just a short drive to mox seattle.  job description card kingdom is looking for the first-ever ux/ui designer to join our ecommerce team. this role is responsible for creating intuitive and thoughtful ui wireframes / prototypes / flows from business requirements, while also being the voice of usability across both external and internal systems. they will also be responsible for creating highly-optimized production art assets, that are consistent with card kingdom’s brand and appealing to our audience.  role objectives · own the end-to-end design process and deliverables (including user personas, workflows, interactive wire-frames, mock-ups, and production art assets). · work closely with our agile sprint teams on the ever-changing requirements of our retail and online business. · lead the planning and execution of consumer research at every stage of the product/feature lifecycle; from concept, prototype validations, all the way to usability tests on the final creation. · balance your time and efforts across all the teams that need it - you are the design team! · be future-looking with your designs but also understand the realities of shipping code. · communicate complex, interactive design concepts clearly across different audiences and varying levels of the organization. · understand how to utilize data to inform design decisions. · empathize with the struggles of our users and be a customer advocate whether that is a customer ordering on their phone or an employee packing that same order.  qualifications · bachelor’s degree or 3+ years of related experience preferable. · excellent communication, presentation, interpersonal and analytical skills. · previous experience working with retail and/or online sales + fulfillment pipelines a plus. · familiarity with a/b, multivariate, and other quantitative testing techniques.  · an online portfolio or samples of work demonstrating experience creating great end-to-end, user- centered design solutions and patterns, across desktop and mobile devices.  · proficiency designing and prototyping with a variety of tools such as photoshop, illustrator, indesign, sketch cloud, after effects or similar. · self-motivated, self-directed, with a positive outlook and “can-do” attitude. our benefits: generous pto policy, excellent health benefit plans, 401k matching, paid holidays, employee discounts. equal opportunity employment: we are committed to cultivating a workplace in which diverse perspectives and experiences are welcomed and respected. we do not discriminate on the basis of race, color, religion, creed, ancestry, national origin, sex, age, disability (physical or mental), marital or veteran status, genetic information, sexual orientation, gender identity, political ideology, or membership in any other legally protected class."
 12365,Sr. Data Analyst,Acorns,Greenhouse,https://boards.greenhouse.io/acorns/jobs/2420556?gh_jid=2420556&gh_src=f483f0251us
 12366,"Software Engineer, Equity Reporting ",Carta,Greenhouse,https://boards.greenhouse.io/carta/jobs/4268618003#app
@@ -12930,7 +12930,7 @@ Harness",AngelList,https://angel.co/company/harness-4/jobs/1063909-sales-operati
 12916,IT BI Engineering Manager,Twitter,Unknown,
 12917,customer onboarding manager,Snapdocs,Lever,https://jobs.lever.co/snapdocs/e6ef3c6e-217d-4a13-b3f9-c0bf1ca1853d
 12918,Customer Success Manager,Centro ,Lever,https://jobs.lever.co/centro/56d364a1-4cf2-442c-ac3e-29f62389b24c
-12919,Data Science Intern | Summer 2021,Liquidnet,Unknown,https://liquidnet.wd1.myworkdayjobs.com/en-US/Liquidnet/job/New-York/Data-Science-Intern---Summer-2021_R-00903?source=Indeed.com
+12919,Data Science Intern | Summer 2021,Liquidnet,Indeed,https://liquidnet.wd1.myworkdayjobs.com/en-US/Liquidnet/job/New-York/Data-Science-Intern---Summer-2021_R-00903?source=Indeed.com
 12920,Junior Data Analyst,LevelUP,LinkedIn,https://www.linkedin.com/jobs/view/2322392368/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SKILL_ASSESSMENTS&refId=FuN5%2Fy5sJw5c6KjIJFTamg%3D%3D&trackingId=hZy2j7VT1twt%2BWI8TL4i1w%3D%3D&trk=flagship3_search_srp_jobs
 12921,Growth Marketing Manager,Kjaer Weis,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2323922036&f_TPR=r86400&geoId=105080838&keywords=growth%20marketing&location=New%20York%2C%20United%20States
 12922,Fraud Solutions Lead - Product Management ,Equifax,Unknown,
@@ -13184,7 +13184,7 @@ Harness",AngelList,https://angel.co/company/harness-4/jobs/1063909-sales-operati
 13170,Machine Learning Engineer,FIGS,Glassdoor,https://www.glassdoor.com/Job/jobs.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword=&locT=C&locId=1163731&jobType=&context=Jobs&sc.keyword=machine+learning&dropdown=0
 13171,Software Engineer,FarApp,Glassdoor,https://www.glassdoor.com/Job/jobs.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword=software+Engineer&locT=C&locId=1163731&jobType=&context=Jobs&sc.keyword=software+Engineer&dropdown=0
 13172,Software Engineer - Perception Tools and Platform,Zoox,Lever,https://jobs.lever.co/zoox/35757741-3b65-4d0d-a7cb-d4c8a717ff86/apply
-13173,Product Designer,Execu|Search Group,Unknown,https://careers.execu-search.com/jobs/262840?utm_source=linkedin.com&utm_medium=paid&utm_campaign=linkedin.com_jobs
+13173,Product Designer,Execu|Search Group,LinkedIn,https://careers.execu-search.com/jobs/262840?utm_source=linkedin.com&utm_medium=paid&utm_campaign=linkedin.com_jobs
 13174,"SDE - Tempe, AZ",Amazon,Lever,https://jobs.lever.co/zoox/35757741-3b65-4d0d-a7cb-d4c8a717ff86/thanks
 13175,Software Engineer - Perception Tools and Platform,Zoox,Lever,https://jobs.lever.co/zoox/35757741-3b65-4d0d-a7cb-d4c8a717ff86/thanks
 13176,UX Designer,Onward Search,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2340237542&pivotType=jymbii
@@ -13341,7 +13341,7 @@ Harness",AngelList,https://angel.co/company/harness-4/jobs/1063909-sales-operati
 13327,Software Engineer,Panorama Education,Greenhouse,https://boards.greenhouse.io/panoramaed/jobs/2529283?gh_src=6bff60261us
 13328,Software Engineer - New Grad,Plaid,Lever,https://jobs.lever.co/plaid/02998813-cd2a-4449-9eb1-49ee383d977f/apply
 13329,"",Unknown,LinkedIn,https://www.linkedin.com/jobs/view/2341299239/?refId=HaRMPXpwRLmAB53KxQGA6w%3D%3D
-13330,Software Engineer - New Grad,Clever,Company Website,https://clever.com/about/careers/software-engineer-new-grad#gh_jid=2388626
+13330,Software Engineer - New Grad,Clever,Lever,https://clever.com/about/careers/software-engineer-new-grad#gh_jid=2388626
 13331,"Software Engineer, New Grad",Orchard,Greenhouse,https://boards.greenhouse.io/perch1/jobs/4822825002
 13332,"",Unknown,Unknown,https://rstudio.com/about/job-posting/?gh_jid=4273036003&gh_src=6b0749af3us
 13333,"Software Engineer, University Graduate",SingleStore,Greenhouse,https://boards.greenhouse.io/singlestore/jobs/2328586?s=LinkedIn&source=LinkedIn
@@ -13401,7 +13401,7 @@ Harness",AngelList,https://angel.co/company/harness-4/jobs/1063909-sales-operati
 13387,"Back-End Software Engineer, Java",Optello,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2326108424&pivotType=jymbii&start=24
 13388,Software Engineer,Xealth,Greenhouse,https://boards.greenhouse.io/xealth/jobs/4062164003?gh_src=e5ebbf483us#app
 13389,"",Unknown,Unknown,https://www.axiomlaw.com/careers/headquarters/available-positions?job=4980592002
-13390,"",Intelliswift Software,Unknown,https://www1.jobdiva.com/portal/?a=dcjdnwn0pgat8ycasgunaf2sf3kjkd00a7f47dsz3rq8hagep4ceaw1dlovsxlh0&jobid=15130605#/jobs/15130605?compid=0&SearchString=&StatesString=&id=15130605&source=linkedin.com
+13390,"",Intelliswift Software,LinkedIn,https://www1.jobdiva.com/portal/?a=dcjdnwn0pgat8ycasgunaf2sf3kjkd00a7f47dsz3rq8hagep4ceaw1dlovsxlh0&jobid=15130605#/jobs/15130605?compid=0&SearchString=&StatesString=&id=15130605&source=linkedin.com
 13391,Business Analyst,Datix,Indeed,https://www.indeed.com/jobs?q=Data%20Analyst&l=United%20States&ts=1607550854846&rq=1&rsIdx=0&fromage=last&newcount=1421&vjk=12998ef5cff5a08d&advn=8343132429651939
 13392,Business Data Analyst Internship,Esurgi,Indeed,https://www.indeed.com/jobs?q=Data%20Analyst&l=United%20States&fromage=7&vjk=5738a1d4c45cfc4c
 13393,Data Analyst I,Definitive Healthcare,Indeed,https://www.indeed.com/jobs?q=Data%20Analyst&l=United%20States&fromage=7&vjk=6d06c1ea4d28b1a0
@@ -13483,7 +13483,7 @@ Harness",AngelList,https://angel.co/company/harness-4/jobs/1063909-sales-operati
 13469,Product Manager (Remote),Aurora Solar,Lever,https://jobs.lever.co/aurorasolar/67e72770-2411-4ef9-9ae2-5327096e365d/apply
 13470,Test Automation Java Software Engineer,JP Morgan,Unknown,https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210053414/?utm_medium=jobshare&src=LinkedIn_Slots
 13471,Product Manager (remote),Smartling,Greenhouse,https://boards.greenhouse.io/smartling/jobs/2538143?gh_src=e5f08ac81us#app
-13472,"",Unknown,Unknown,https://clever.com/about/careers/detail?gh_jid=2388626%3Futm_source%3Dremotists.com&utm_medium=referrer&utm_campaign=newsletter
+13472,"",Unknown,Lever,https://clever.com/about/careers/detail?gh_jid=2388626%3Futm_source%3Dremotists.com&utm_medium=referrer&utm_campaign=newsletter
 13473,Data Scientist,KETOS,Unknown,
 13474,Staff Software Engineer,Procore Technologies,Company Website,https://www.procore.com/jobs/openings/2529422?gh_src=bxd7kt1
 13475,"",Unknown,Unknown,https://www.tempus.com/careers/job/?gh_jid=4669966002
@@ -13623,7 +13623,7 @@ Harness",AngelList,https://angel.co/company/harness-4/jobs/1063909-sales-operati
 13609,Data Scientist,Kinship,Unknown,
 13610,"Software Engineer, Energy Optimization","TESLA, Inc.",Company Website,https://www.tesla.com/careers/search/job/software-engineer-energy-optimization-69065
 13611,"",Unknown,Unknown,https://alloy.co/jobs/?gh_jid=4995981002
-13612,Python Engineer Automation,Diverse Lynx LLC,Unknown,https://www2.jobdiva.com/portal/?a=9xjdnw687b7a7nvvdyut936kpjlgy0023blrozaecads0pdnwppcswnaaku8ji2g&jobid=14025754#/jobs/14025754?compid=0&SearchString=&StatesString=&id=14025754&source=linkedin.com
+13612,Python Engineer Automation,Diverse Lynx LLC,LinkedIn,https://www2.jobdiva.com/portal/?a=9xjdnw687b7a7nvvdyut936kpjlgy0023blrozaecads0pdnwppcswnaaku8ji2g&jobid=14025754#/jobs/14025754?compid=0&SearchString=&StatesString=&id=14025754&source=linkedin.com
 13613,Software development co-op,Intel,Unknown,
 13614,Data Analyst/ Salesforce Admin,The Carrera Agency,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2274680008&pivotType=jymbii
 13615,Software Engineer,Capital One,Unknown,
@@ -14014,7 +14014,7 @@ Job Url",Lever,https://jobs.lever.co/matchgroup/e58fb8a9-60e9-48a9-bd60-e791472b
 13999,Associate Product Manager - Panorama,Goldman Sachs,Unknown,https://uscareers-goldmansachs.icims.com/jobs/68031/associate-product-manager---panorama/job?mode=submit_apply
 14000,ML/DL engineer,Syncroness,Jobvite,https://jobs.jobvite.com/syncroness/job/oPUJdfwp/apply
 14001,Software Engineer,Kindbody,Greenhouse,https://boards.greenhouse.io/kindbody/jobs/4115372002?gh_src=f880b32f2#app
-14002,Software Engineer - New Grad,Clever,Company Website,https://clever.com/about/careers/software-engineer-new-grad#gh_jid=2388626
+14002,Software Engineer - New Grad,Clever,Lever,https://clever.com/about/careers/software-engineer-new-grad#gh_jid=2388626
 14003,Full Stack Software Engineer ,The Farmer's Dog,Greenhouse,https://boards.greenhouse.io/thefarmersdog/jobs/4990352002?gh_src=841ff6792us
 14004,Software Engineer - Platform,Signifyd,Greenhouse,https://boards.greenhouse.io/signifyd95/jobs/2535435?gh_src=fc45b6611us
 14005,Software Engineer,Cajal Neuroscience,Greenhouse,https://boards.greenhouse.io/cajalneuro/jobs/4287151003?gh_src=e1c2f8bc3us#app
@@ -14194,7 +14194,7 @@ Job Url",Lever,https://jobs.lever.co/matchgroup/e58fb8a9-60e9-48a9-bd60-e791472b
 14179,Product Designer,Synergis Creative,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2314518737&pivotType=jymbii&start=48
 14180,Associate Product Manager,Cision,Lever,https://jobs.lever.co/cision/b0e3ea65-24b8-4445-80cc-3af179abc381/apply
 14181,"",Unknown,Unknown,https://slack.com/intl/en-hk/careers/2441200/software-engineer-frontend?gh_src=pmw542v31#apply
-14182,Software Engineer,Alaska Airlines,Unknown,https://alaskaair.jobs/seattle-wa/software-engineer/39A0C04B42CE4346BD17CD5699132CBD/job/?vs=1606&utm_source=LinkedIn.com-DE&utm_medium=Social%20Media&utm_campaign=LinkedIn.com
+14182,Software Engineer,Alaska Airlines,LinkedIn,https://alaskaair.jobs/seattle-wa/software-engineer/39A0C04B42CE4346BD17CD5699132CBD/job/?vs=1606&utm_source=LinkedIn.com-DE&utm_medium=Social%20Media&utm_campaign=LinkedIn.com
 14183,User Experience Designer,Brooksource,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2344414000&pivotType=jymbii&start=24
 14184,UX Designer,The Execu/Search Group,Unknown,https://creative.execu-search.com/job-seekers/apply-job-thank-you
 14185,SDE 1,Verizon Media,Unknown,https://vzbuilders.wd5.myworkdayjobs.com/en-US/careers/jobs
@@ -14479,7 +14479,7 @@ Job Url",Lever,https://jobs.lever.co/matchgroup/e58fb8a9-60e9-48a9-bd60-e791472b
 14464,"",Unknown,Unknown,https://tripactions.com/job-openings/2538374?gh_jid=2538374&gh_src=b13de4e21
 14465,"Data Analyst, Business Operations",Whip Media Group,Greenhouse,https://boards.greenhouse.io/whipmediagroup/jobs/4290337003#app
 14466,Data scientist,Avetta,Company Website,https://www.avetta.com/company/careers/careers-list?gh_jid=4211534003&gh_src=27dc96bf3us
-14467,Data Scientist II,Ryder,Company Website,https://jobs.ryder.com/houston-tx/data-scientist-ii/C8D2A68FB8274DC6BA65C395E1312BF7/job/?vs=1606&utm_source=LinkedIn.com-DE&utm_medium=Social%20Media&utm_campaign=LinkedIn.com
+14467,Data Scientist II,Ryder,LinkedIn,https://jobs.ryder.com/houston-tx/data-scientist-ii/C8D2A68FB8274DC6BA65C395E1312BF7/job/?vs=1606&utm_source=LinkedIn.com-DE&utm_medium=Social%20Media&utm_campaign=LinkedIn.com
 14468,Digital Product manager,Red Ventures,Company Website,https://careers.redventures.com/application/position/2539958?gh_jid=2539958&gh_src=fd5298be1&source=JobTarget%20via%20JobTarget%20Programmatic&utm_source=JobTarget&utm_medium=JobTarget%20Programmatic&utm_campaign=Digital%20Product%20Manager%20-%20Education%20(2539958)&_jtochash=Y7exNLFdAVa6Fpg5uV4L1&_jtocprof=g82TeGQOnY_2P_oACWWSETm7KbhkVjsX
 14469,Data Scientist - Analytics ,Stash,Greenhouse,https://boards.greenhouse.io/embed/job_app?token=2464280
 14470,Data Scientist - Analytics ,Stash,Greenhouse,https://boards.greenhouse.io/embed/job_app?token=2464280
@@ -15300,7 +15300,7 @@ Job Url",Lever,https://jobs.lever.co/matchgroup/e58fb8a9-60e9-48a9-bd60-e791472b
 15284,Programmer Analyst,Emergere Technologies,Unknown,
 15285,Full Stack Software Engineer ,The Farmer's Dog,Greenhouse,https://boards.greenhouse.io/thefarmersdog/jobs/4990352002?gh_src=841ff6792us#app
 15286,"",Unknown,LinkedIn,https://www.linkedin.com/jobs/view/2330872055/?refId=5e2992df-d01c-477a-8320-9be617eee232&trk=flagship3_job_home_savedjobs
-15287,Marketing Analytics Associate,Clever,Company Website,https://clever.com/about/careers/marketing-analytics-associate#gh_jid=2255510#gh_jid=2255510
+15287,Marketing Analytics Associate,Clever,Lever,https://clever.com/about/careers/marketing-analytics-associate#gh_jid=2255510#gh_jid=2255510
 15288,Machine Learning Engineer - Search & Recommendations (all levels),Twitter,SmartRecruiters,https://jobs.smartrecruiters.com/oneclick-ui/company/Twitter2/publication/6c7ca327-68e4-4ff7-a285-188c3a0bf3a4/screening?dcr_id=DCRA1
 15289,Growth Marketing Associate ,Nurx,Greenhouse,https://boards.greenhouse.io/nurx/jobs/4945134002?t=e418809d2us
 15290,Software Engineer - New Grad,GOAT Group,Lever,https://jobs.lever.co/goat/8ab117ad-9981-4267-905b-14b73a90c242/apply
@@ -15394,7 +15394,7 @@ Job Url",Lever,https://jobs.lever.co/matchgroup/e58fb8a9-60e9-48a9-bd60-e791472b
 15378,SWE,Thankful,Unknown,
 15379,Machine Learning Engineer,Houghton Mifflin Harcourt,Unknown,https://www.edsurge.com/jobs/machine-learning-engineer-job-at-houghton-mifflin-harcourt
 15380,Software Engineer,TalentSky,Unknown,
-15381,UX/UI Designer,The Execu/Search Group,Unknown,https://careers.execu-search.com/jobs/263128?utm_source=linkedin.com&utm_medium=paid&utm_campaign=linkedin.com_jobs
+15381,UX/UI Designer,The Execu/Search Group,LinkedIn,https://careers.execu-search.com/jobs/263128?utm_source=linkedin.com&utm_medium=paid&utm_campaign=linkedin.com_jobs
 15382,"Data Analytics Mentor, Thinkful",Chegg,Jobvite,https://jobs.jobvite.com/chegg/job/oroXcfwI/apply
 15383,Data Analyst,The Voleon Group,Lever,https://jobs.lever.co/voleon/e47d5699-5c1a-4b17-bbf4-c948efc0151d/apply
 15384,Sr. Demand Supply Analyst,ZT Systems,LinkedIn,https://www.linkedin.com/jobs/search/?alternateChannel=topapp&alternateCode=seturl&currentJobId=2002498696&eBP=DummyToken&pivotType=jymbii&refId=79b6c8c9-4eed-4080-8d84-dabf6bc70117&trackingId=lozaWmwy30TCxrWurFh2Eg%3D%3D&trk=d_flagship3_job_home
@@ -15747,7 +15747,7 @@ Job Url",Lever,https://jobs.lever.co/matchgroup/e58fb8a9-60e9-48a9-bd60-e791472b
 15731,Software Engineer - Pixie,New Relic,Jobvite,https://jobs.jobvite.com/newrelic/job/oMIeefwG/apply
 15732,Data Analyst,groupm,Jobvite,https://jobs.jobvite.com/groupm-na/job/oZ19efw7/apply
 15733,"",Unknown,Unknown,https://mightyhive.com/current-openings/job/?gh_jid=1536240
-15734,New College Graduate: Software Engineer I,Raytheon Technologies,Unknown,https://jobs.rayjobs.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25258&siteid=5368&AReq=173015BR&gqid=0&utm_campaign=enterprise&utm_medium=social_media&utm_content=job_posting&utm_source=linkedin.com&ss=paid&dclid=CIDZ77rz4e0CFU7SvAodnNEFTg#Applypage
+15734,New College Graduate: Software Engineer I,Raytheon Technologies,LinkedIn,https://jobs.rayjobs.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25258&siteid=5368&AReq=173015BR&gqid=0&utm_campaign=enterprise&utm_medium=social_media&utm_content=job_posting&utm_source=linkedin.com&ss=paid&dclid=CIDZ77rz4e0CFU7SvAodnNEFTg#Applypage
 15735,"Software QA Engineer, Cash App",Cash App,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2268879022&f_E=2&keywords=banking%20software
 15736,"Strategy and Partnerships Manager, Business Education",Facebook,Unknown,http://referred
 15737,Data Scientist: Premium Product Innovation,Spotify,Lever,https://jobs.lever.co/spotify/4ec2949a-aab0-46ee-9738-e516ac37712a/apply?lever-source=LinkedIn
@@ -15906,7 +15906,7 @@ Job Url",Lever,https://jobs.lever.co/matchgroup/e58fb8a9-60e9-48a9-bd60-e791472b
 15890,"",Unknown,Unknown,https://www.nextinsurance.com/careers/?gh_jid=4155703003
 15891,"",Unknown,LinkedIn,https://www.linkedin.com/jobs/view/2341522813/?refId=pGv1p97cC2o%2BF6nwovSvPA%3D%3D
 15892,Entry Level Software Developer,General Motors Ventures,Unknown,https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Austin-IT-Innovation-Center-North---Austin-IT-Innovation-Center-North/Entry-Level-Software-Developer_JR-000003256
-15893,"",Unknown,Unknown,https://clever.com/about/careers/detail?gh_jid=2388626&gh_src=2f91e8121us
+15893,"",Unknown,Lever,https://clever.com/about/careers/detail?gh_jid=2388626&gh_src=2f91e8121us
 15894,New Grad Software Engineer,Secureframe,Lever,https://jobs.lever.co/secureframe/d90aa468-f846-413f-a9c9-0834d3dfa9d7/apply?lever-source=LinkedIn
 15895,Product Designer,Animoto,Lever,https://jobs.lever.co/animoto/b6d8853c-3453-466f-b6b8-14078a8212dd/apply
 15896,Business/Data Analyst #: 20-03917,"HireTalent Executive Search, Temporary Staffing, Recruiting & SOW",LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2345910026&pivotType=jymbii
@@ -15969,7 +15969,7 @@ Job Url",Lever,https://jobs.lever.co/matchgroup/e58fb8a9-60e9-48a9-bd60-e791472b
 15953,Product Manager,MaestroQA,Greenhouse,https://boards.greenhouse.io/maestroqa/jobs/4305727003?gh_src=094d392d3us
 15954,"",Unknown,Lever,https://jobs.lever.co/blendlabs/21c0637f-7fd4-4e6c-904b-5e0ae5915677/thanks
 15955,"New Grad, Software Engineer, Replay Simulation",Cruise,Greenhouse,https://boards.greenhouse.io/cruise/jobs/2365728?gh_jid=2365728
-15956,"",Unknown,Unknown,https://clever.com/about/careers/software-engineer-new-grad#gh_jid=2388626
+15956,"",Unknown,Lever,https://clever.com/about/careers/software-engineer-new-grad#gh_jid=2388626
 15957,Core Java Developer,Wipro Limited,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2318786723&pivotType=jymbii
 15958,Business Data Engineer,IndeVets,Greenhouse,https://boards.greenhouse.io/indevets/jobs/4875473002?gh_src=bd7edfc32us
 15959,Product Manager,Toast,Company Website,https://careers.toasttab.com/?url=job&gh_jid=2384475
@@ -15987,7 +15987,7 @@ Job Url",Lever,https://jobs.lever.co/matchgroup/e58fb8a9-60e9-48a9-bd60-e791472b
 15971,"",Unknown,Unknown,https://www.ecobee.com/en-ca/careers/job-board/?gh_jid=2006233
 15972,Product Manager,MaestroQA,Greenhouse,https://boards.greenhouse.io/maestroqa/jobs/4305727003?gh_src=094d392d3us
 15973,New Grad Software Engineer,Secureframe,Lever,https://jobs.lever.co/secureframe/d90aa468-f846-413f-a9c9-0834d3dfa9d7/apply?lever-source=LinkedIn
-15974,"",Unknown,Unknown,https://clever.com/about/careers/detail?gh_jid=2388626&gh_src=2f91e8121us
+15974,"",Unknown,Lever,https://clever.com/about/careers/detail?gh_jid=2388626&gh_src=2f91e8121us
 15975,"",Unknown,Unknown,https://corp.roblox.com/careers/listing/?gh_jid=2322821
 15976,"Backend Software Engineer, New Grad (Mountain View)",Confluent,Lever,https://jobs.lever.co/confluent/e825f59b-85db-4bd4-b501-40676b3c170b/apply
 15977,Interaction Designer,"Internet Brands, Inc. Logo",Jobvite,https://jobs.jobvite.com/internetbrands/job/o5kcefwz/apply
@@ -16063,7 +16063,7 @@ Job Url",Lever,https://jobs.lever.co/matchgroup/e58fb8a9-60e9-48a9-bd60-e791472b
 16047,Backend Software Engineer,onDiem,Indeed,https://www.indeed.com/viewjob?ad=-6NYlbfkN0CIAP0okDEf8OO-yybPUVwOqhJBNDk_DASyecB34TlE125BQB0ObGrSpUFMg6uDvcX3XsjO3T4-YuRmoJQhFA1GO8yFahYBKrzt3FkJusd8jR8W-tZm-mEcX44UIKuEJ9_ckeY62KMflbTCvCXpfh2GwqxUa7Xdqf3ycEQCdgCmYzbbvhVRzNKJPs-iPiT_YH07pUUG6LRfrWVvvfIuLGOWo3Tdw-R0HQJeIu65epnk99_Rpk7cTR88UAt5xXYabFIzy-t0yTgbo9_5s1e2s9Yqu-1yUA88HdZCvyl9gjLIMlDVQ_8td9d552duyscw0IMLA0vLCSU6tQoYZUk88Eak&adid=361867953&cmp=onDiem&from=iaBackPress&jk=f248f0d309f6bd34&pub=4a1b367933fd867b19b072952f68dceb&sjdu=QwrRXKrqZ3CNX5W-O9jEvVVqELpIMWC-etTJuHiqEN3ClPF_cAA2d9TGsQAA6pajIl8URVZOGNOz18yIuuURR2DyK6fDlK8S6vIaZmkaRDg&t=Backend%20Software%20Engineer&tk=1eofs1snvu4ig800&vjs=3
 16048,DevOps Engineer,"BAM Technologies, LLC",LinkedIn,https://www.linkedin.com/jobs/search/?f_CF=f_WRA&f_E=2&f_TPR=r604800&geoId=103644278&keywords=software%20(develop*%20OR%20engineer*)%20NOT%20(frontend%20OR%20%22front-end%22)&location=United%20States&start=150
 16049,"Analyst, Marketing Analytics (CRM) - HBO Max",WarnerMedia,Company Website,https://careers.warnermediagroup.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=391&siteid=36&jobId=861935&Codes=NLIN#jobDetails=861935_36
-16050,Business Intelligence Engineer,Amazon,Company Website,https://www.amazon.jobs/en/jobs/1354449/business-intelligence-engineer?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid
+16050,Business Intelligence Engineer,Amazon,LinkedIn,https://www.amazon.jobs/en/jobs/1354449/business-intelligence-engineer?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid
 16051,Senior Product Manager (Content Management),Seismic,Jobvite,https://jobs.jobvite.com/seismic/job/oyebdfwU/apply?fbclid=IwAR3ZSj1_7lAiQqM5OnZ_38EJQAcz4Xzy_1e_FjU7Wo021KU4JR1xOYhfXpg
 16052,Software Engineer,Vizient,Indeed,https://www.indeed.com/viewjob?jk=32519d1e804674e6&tk=1eogcikmrt5cg800&from=serp&vjs=3&advn=2428317100968103&adid=67839270&ad=-6NYlbfkN0CE6h5qDhqqZU9zXYA9EIA8zO15Weobg6hxnf6fsUw41Tr80O9POMJRqc9Q2uB2vGQ-Sp8WAclc1K6eqBTNm5033TkW7D79Qc_vzXaBBUqtS_0CSPxzjg8uFElVir7Y_TNX3uOKn59GmRnHEK--WNcFwmcN6ZD2KYdgN8V0yv69Hr1C8pTloA8ryJ0kRSSAPB_O2EV55H9vbw-tZCNSu7zdgMgJdbUxjRO-d5-_R4evouEM0iQ_6FppnLw34z6-2XkK15_HISgpwODwDHDPE0iJi6xe5KIfHE5DEN4Igse6TboBWfd32Ovnhm6N8DuH6FxJnFH26mYbkg==&sjdu=FCtGImTzav1oVJy3VtHKjwadkJqiop20-jBi70t77SiglwCQZPYqpyn32KFFdWe8NHHjx6CDY3sjW41cLHBZ227geDpYYWezeUZIk_Nm-brkHSPmDsK4nBU0q0LWYOlU72aaoR0fHTh2qIXQuGJ4wb38n-EZbRy7PuLrw93IZKM
 16053,Software Engineer - Workspace Product,Citrix,Indeed,https://www.indeed.com/viewjob?jk=5b8cd615726414ed&tk=1eofp91pio28m801&from=serp&vjs=3
@@ -16325,7 +16325,7 @@ Job Url",Lever,https://jobs.lever.co/matchgroup/e58fb8a9-60e9-48a9-bd60-e791472b
 16309,Data Engineer,1091 Pictures,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2295938169&f_E=2&f_JT=F&f_TPR=r604800&keywords=data%20engineer&start=25
 16310,Founding Software Engineer (Fullstack),HelloBonjour,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2304651523&pivotType=jymbii&start=168
 16311,Product analyst,expert institute,Company Website,https://www.expertinstitute.com/job/?posting_id=743999725465335
-16312,React Developer,GavinHealth,Unknown,https://www1.jobdiva.com/portal/?a=k1jdnw97y2ba69mixpqijkgh9633e3075ay54ctusnobplysx8gv35gw2tu44062&jobid=15136677#/jobs/15136677?compid=0&SearchString=&StatesString=&id=15136677&source=linkedin.com
+16312,React Developer,GavinHealth,LinkedIn,https://www1.jobdiva.com/portal/?a=k1jdnw97y2ba69mixpqijkgh9633e3075ay54ctusnobplysx8gv35gw2tu44062&jobid=15136677#/jobs/15136677?compid=0&SearchString=&StatesString=&id=15136677&source=linkedin.com
 16313,"Software Developer - React, Node",HUNTER Technical - htrjobs.com,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2211126784&f_E=2&f_TPR=r86400&geoId=103644278&keywords=entry%20level%20software%20developer&location=United%20States&start=50
 16314,Software Developer,Wall Street Systems,Indeed,https://www.indeed.com/jobs?q=Software%20Engineer&l&ts=1606258610247&rq=1&rsIdx=0&fromage=last&newcount=1346&vjk=6bba31d21913ac98&advn=4942118291300275
 16315,"Business Analyst, Market Risk Solutions",CIBC,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2303383958&f_TPR=r86400&geoId=105149290&keywords=data%20analyst&location=Ontario%2C%20Canada
@@ -16490,7 +16490,7 @@ InterSystems",Glassdoor,"https://www.glassdoor.com/job-listing/entry-level-softw
 16473,Senior Business Development Manager for Banks,TransferWise,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2311744885&f_E=4&f_JT=F&f_TPR=r86400&geoId=103644278&keywords=it%20sales&location=United%20States
 16474,"",Unknown,LinkedIn,https://www.linkedin.com/jobs/view/2310058843/?alertAction=markasviewed&savedSearchAuthToken=1%26AQGn-iiY2vyOwgAAAXYWpe0JAr0UJsNvH2gaxUo5iGHDAdvVvT62A7iau-xLuONjhQ0lDuWfEBXDvJnpcqb79W3qIXNOotX8RNKdoMLrhEOoiyAyfyIGAIDD-cWx0HpzcdrK4Gb4sTQf2-z-AhCKa6JfWMu5oUyDqHQOwj_4RZveXPSINm4SmkF1dse13uFedgfzwSOYeAvySzvoo1RhalpEr_gn2yh5w0oYRyppeotyJ9Ygxk61m2nak95Ez6QDwL8A8_ItfIm-RaYlh6GWmn6QopmnAawyv88pqk19aPd5ALMzqqlUI0AC%26ASwpb2SWKP71b_PFkLU5Y4nt-24c&savedSearchId=1184113114&refId=06dee8fa-ea7c-470d-8e98-95e7b3f08386&trackingId=l5t33XY5qggHjYHvW2Mrlg%3D%3D&midToken=AQFZB0YztVUIYQ&midSig=1Sze0wWF-TCFw1&trk=eml-email_job_alert_single_02-job_alert-6-member_details_mercado&trkEmail=eml-email_job_alert_single_02-job_alert-6-member_details_mercado-null-8idhod%7Eki3ucnq8%7Ebh-null-jobs%7Eview
 16475,Front End Developer - A/B Testing,ANN INC (Ann Taylor | LOFT | Lou & Grey),LinkedIn,https://www.linkedin.com/jobs/view/2198029071/?alternateChannel=smljob&alternateCode=seturl&eBP=CwEAAAF2Ftyl98c5yFLIPAt4y9fMmznKjMQ2irtSQVmrR8tsxrvRDWORxnoaKXdN9wSdMlYARftde67S-QfqUlGzUELadwK_QmNokUHT36YuJw_ZQCa1SWiYmkrWqwSyt0X8o77oTH5f57uB31liBtBsQk4fP8Zu_FSKLOu85Gor48ORzsfaUDWhoFXg29QxxmvTePm-PgPcMvTJyw_6QXBLeQw8z3DQ5IkBH9x6VtNLtUNbN3yE6398Syc0_Fy37vL1jdl6ww6-hAMV5uPG1oHoLPMmVCHQ94Q3w88Ao7-e0blKTdjhrNrlKTfs8zUHrKIkIItamsMqF13CWifX6BbawXb6vyArzeq9pcgc57AGcWZcIZQmGmPSRMVjHeBH5VE2&refId=ovVhuUIlIEe0veZXLbYDxQ%3D%3D&trackingId=OJagJI0V2PreoyKeU24TLw%3D%3D&trk=d_flagship3_job_details
-16476,Product Manager,Email on Acid,Unknown,https://careers.hireology.com/emailonacid/470193/description?ref=organic.linkedin.com
+16476,Product Manager,Email on Acid,LinkedIn,https://careers.hireology.com/emailonacid/470193/description?ref=organic.linkedin.com
 16477,Software Engineer,Scale Computing,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2323399644&pivotType=jymbii&start=24
 16478,Product Manager,Webmd,Google,https://www.google.com/search?q=product+manager&rlz=1c1chbf_enus733us733&oq=google+jobs&aqs=chrome.0.69i59j0j0i457j0i402j0j69i60l3.1421j0j4&sourceid=chrome&ie=utf-8&ibp=htl;jobs&sa=x&ved=2ahukewiesvgj1jztahwrszabhawvcoqqudcgkaj6bageecg#fpstate=tldetail&htivrt=jobs&htilrad=-1.0&htichips=city:owg_06vpwoli_nfhbo8lya%3d%3d&htischips=city;owg_06vpwoli_nfhbo8lya%3d%3d:new%20york_comma_%20ny&htidocid=oplnyjwfpxvin09naaaaaa%3d%3d
 16479,Embedded Software Engineer,Unknown,Glassdoor,"https://www.glassdoor.com/Job/phoenix-embedded-jobs-SRCH_IL.0,7_IC1133904_KO8,16.htm?fromAge=7&radius=100"
@@ -16518,7 +16518,7 @@ InterSystems",Glassdoor,"https://www.glassdoor.com/job-listing/entry-level-softw
 16501,Associate Application Developer - Global Product & Technology 2021 Development Program - May 2021 grads!,ADP,LinkedIn,https://www.linkedin.com/jobs/view/2324844355/?refId=K%2FMml1nFoDD6Ku7rRu8UTg%3D%3D
 16502,"",Unknown,LinkedIn,https://www.linkedin.com/jobs/view/2226843101/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=ACTIVELY_HIRING_COMPANY&refId=lUlpuzd6I%2FeU4Xj4x9xxZQ%3D%3D&trackingId=DGO39MPoG1eua%2BckfZxNaA%3D%3D&trk=flagship3_search_srp_jobs
 16503,"",Unknown,LinkedIn,https://www.linkedin.com/jobs/view/2149744310/?alternateChannel=search&eBP=CwEAAAF2GsKjF8D_br612Z_aSp1xb5BnUoWXcHSPtPusuNkzE_wFx0jDnqQIuBfUqOTRiZjG6kEwBnP0wDOHoledYbALrvFfJl2hBnuVg8wAnTdSgs5cZWc4-qnzKjVEVmYfeJurrSMUEStFxovXrscgKUb2TpZZh4rDE6xALOMp0jMYP5kVHvodwhxg_2U2lie48yoMjshLbsLA_ZMSktbz_o6moEVA6qhvkbAzKJXmaX2J8ow5m3KGAIZDJev7bDREke6wgK80qcftEJY6lkVXMOwVZUyo2NSxWq22qGPzd_JfaST1ThjGF6uwSLbUpPT8OMCntu_SmxBAb-3TkP5I0VhVC3hNmhTEw9oDTRoUx3UpQhZvf52EuNYf-PzO2U3RUEBa4lk&recommendedFlavor=ACTIVELY_HIRING_COMPANY&refId=lUlpuzd6I%2FeU4Xj4x9xxZQ%3D%3D&trackingId=IjNHqOtJ5IbG8Qer6vh3ng%3D%3D&trk=flagship3_search_srp_jobs
-16504,"Associate software engineer - austin, tx",UnitedHealth Group Ventures,Unknown,https://careers.unitedhealthgroup.com/job/11907445/?utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=branding&utm_term=linkedin_organic_job_postings&utm_content=na_na_na_na&Taleo_ID=JB-14948
+16504,"Associate software engineer - austin, tx",UnitedHealth Group Ventures,LinkedIn,https://careers.unitedhealthgroup.com/job/11907445/?utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=branding&utm_term=linkedin_organic_job_postings&utm_content=na_na_na_na&Taleo_ID=JB-14948
 16505,UI Designer,Hireology,Unknown,
 16506,Product Manager (Healthcare / Startup),Motion Recruitment,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2327305382&f_E=2&f_TPR=a1606686867-&geoId=103644278&keywords=product%20manager&location=United%20States
 16507,Software (platform) engineer ii,CDKGlobal,Company Website,https://jobs.cdkglobal.com/job/Austin-Software-%2528Platform%2529-Engineer-II-%2528Austin-OR-San-Jose%2529-TX-78730/692931100/?feedId=318100&utm_medium=%2522mcloud-jobads%2522&utm_campaign=US%2520-%2520Software%2520Engineer%2520Roles&utm_content=Software%2520(Platform)%2520Engineer%2520II%2520(Austin%2520OR%2520San%2520Jose)&utm_term=692931100&utm_source=Indeed&sponsored=ppc
@@ -16656,7 +16656,7 @@ InterSystems",Glassdoor,"https://www.glassdoor.com/job-listing/entry-level-softw
 16639,Data Analyst (CPG),CLEAN Cause,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2313008580&f_E=1%2C2%2C3&f_TPR=r86400&geoId=103644278&keywords=data%20analyst&location=United%20States
 16640,Data Analyst and Scripting,"Spotlight Energy, LLC",LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2312886133&f_E=1%2C2%2C3&f_TPR=r86400&geoId=103644278&keywords=data%20analyst&location=United%20States
 16641,Software Engineer,dataPlor,LinkedIn,https://www.linkedin.com/jobs/search/?alertAction=viewjobs&currentJobId=2285200824&f_JT=F%2CI%2CT&f_TPR=a1605545583-&f_WRA=true&keywords=software%20engineer&savedSearchId=1098791576&searchAlertRefId=9a1f0bea-2438-4594-b492-27882aae7aa1
-16642,Software Engineer,Capital One,Company Website,https://www.capitalonecareers.com/job/-/-/1732/18004869?utm_source=linkedin.com&utm_campaign=talent_marketing&utm_medium=social_media&utm_content=job_posting&utm_term=265525768&ss=paid&dclid=CjgKEAiAhs79BRCkgO6nn8Pcy2oSJACVTYJfrsHqaFWh3VCmh9YRrL2D39RyZgSn7xIpWwCOkMiFxPD_BwE
+16642,Software Engineer,Capital One,LinkedIn,https://www.capitalonecareers.com/job/-/-/1732/18004869?utm_source=linkedin.com&utm_campaign=talent_marketing&utm_medium=social_media&utm_content=job_posting&utm_term=265525768&ss=paid&dclid=CjgKEAiAhs79BRCkgO6nn8Pcy2oSJACVTYJfrsHqaFWh3VCmh9YRrL2D39RyZgSn7xIpWwCOkMiFxPD_BwE
 16643,Software Engineer,Metron,Unknown,https://careers-metsci.icims.com/jobs/1662/software-engineer/job?mobile=false&width=2317&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240
 16644,Product manager,Protenus,Unknown,http://hhttps://www.protenus.com/careers/?gh_jid=4179844003&gh_src=13f57bdd3us
 16645,SWE,Lattice,LinkedIn,https://www.linkedin.com/jobs/view/2285204481
@@ -16913,7 +16913,7 @@ InterSystems",Glassdoor,"https://www.glassdoor.com/job-listing/entry-level-softw
 16896,Data Analyst,Global SCR,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2315405636&f_E=2&f_TPR=r86400&geoId=90000007&location=Greater%20Boston&start=25
 16897,"",Unknown,LinkedIn,https://www.linkedin.com/jobs/view/2166952239/?alternateChannel=smljob&refId=yK6RetWAXHKzZvNnkE8%2B9w%3D%3D&trackingId=W4S26Tn%2F7zmqT1udNePxWQ%3D%3D
 16898,Software Engineer - Data,Blend,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=1983863645&f_JT=F&f_TPR=r86400&geoId=103644278&keywords=python&location=United%20States
-16899,"",Unknown,Unknown,https://www.thoughtworks.com/jobs/2452162/apply?utm_medium=site-sponsorship&utm_source=linkedin.com&gh_src=kh6pt5
+16899,"",Unknown,LinkedIn,https://www.thoughtworks.com/jobs/2452162/apply?utm_medium=site-sponsorship&utm_source=linkedin.com&gh_src=kh6pt5
 16900,Full Stack Engineer,Versa Networks,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2291870735&f_JT=F&f_TPR=r86400&geoId=103644278&keywords=python&location=United%20States
 16901,Full Stack Engineer,Maestro,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2316083873&f_JT=F&f_TPR=r86400&geoId=103644278&keywords=python&location=United%20States
 16902,Junior Video Software Engineer,Zoom,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2316305243&f_JT=F&f_TPR=r86400&geoId=103644278&keywords=python&location=United%20States
@@ -19151,7 +19151,7 @@ InterSystems",Glassdoor,"https://www.glassdoor.com/job-listing/entry-level-softw
 19134,SWE,Affirm,Unknown,
 19135,Front SWE,Alto,Unknown,
 19136,Frontend SWE,SCALE AI,LinkedIn,https://www.linkedin.com/jobs/view/2360796637
-19137,Environmental Program Manager,Amazon,Company Website,https://www.amazon.jobs/en/jobs/1345398/environmental-program-manager-ems?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid
+19137,Environmental Program Manager,Amazon,LinkedIn,https://www.amazon.jobs/en/jobs/1345398/environmental-program-manager-ems?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid
 19138,Technical Support Engineer I,Wolin Design Group,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2352939774&f_TPR=r604800&geoId=102095887&keywords=technical%20support%20engineer&location=California%2C%20United%20States&start=25
 19139,Product Marketing Manager,"PitchBook Data, Inc.",Jobvite,https://jobs.jobvite.com/pitchbook/job/oNL0dfwv/apply
 19140,Junior Network Engineer,Extron,LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2359488799&f_TPR=r604800&geoId=102095887&keywords=technical%20support%20engineer&location=California%2C%20United%20States&start=50
@@ -19217,7 +19217,7 @@ InterSystems",Glassdoor,"https://www.glassdoor.com/job-listing/entry-level-softw
 19200,Growth Marketing & Partnerships Manager,Shutterstock,LinkedIn,https://www.linkedin.com/jobs/search/?alternateChannel=jymbii&alternateCode=seturl&currentJobId=2318750479&eBP=CwEAAAF2PgXMVbxc0H5fJhdO3HLF3aBk7PiZizxxJ0RxGqznUWfVBTxyjLPaRLgi9RECZwwUK3Fd-YNwq1934Reh9Cow4AwNgdT2x1RWM1-0ZK3qWMG66nwTOrcAtOQD_IXGO58WNOZoxDGS8EsFzQz34RaE-Z5_HugAJKDL0GLbMOA-kN-h1AW_iCoklMEVXJcp2mVmZWm1tql4sMX-wUPVGJkn7xXWXxf-wd5VwNAjrPNWnEm8SWsQtPUNCYUL-c6vftSku4Yi6C4kqioWYGPMopU_SsiTk1pb5id95HS2TScV_4RgH0CHu9O_ENa9Tb-4hdQkgQU-VJxkBgY2eLJoqmpeLc6-_NKNHBbtqdb1Z_sdT2E4jg&pivotType=jymbii&refId=NYjkaYnQ3NMcoXettt9DKg%3D%3D&start=0&trk=d_flagship3_job_home
 19201,Staff Analytics Engineer,"Affirm, Inc.",LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2317593951&pivotType=jymbii
 19202,Influencer Marketing Manager,ZitSticka™,LinkedIn,https://www.linkedin.com/jobs/search/?alternateChannel=jymbii&alternateCode=seturl&currentJobId=2315251734&eBP=CwEAAAF2PgxlUkXgp8G4BcTeCB8VCc2ZHgc5Y5yoOJKm2i3YxJwQODwz33B7l44-1aMJXQRopV6rFdCipnB8E2GkhHe9abMRiAb0FkPWmeIvB2FjYrtEc2QoXOiyEr2zp7Cxiv2Zo6RTcJWyDUYlXp-P8UD68EM7zSDuxgFnLjyrO5XLy4oqe59Fn9ovYgVULZPDh40ODZaWt08GRObTnABECdypyDQJmbcym-ocwZxqTOaO1psjkp96ReuzTSiXi2oASPPunphcBRfFXeEZuQTiMjQ2SSoWlUzpyVlFVVITi_6wEVJDcdzysoj5i7-Lnl6rnF1rO4Aa1iCPLmQ9zXjIzRz-KHOVZSbeFEJUR213Uqbppi7X1w&pivotType=jymbii&refId=ORMBtAEkcl5NHXacTu6YxA%3D%3D&start=48&trk=d_flagship3_job_home
-19203,Senior Data Scientist,Discovery,Company Website,https://jobs.discovery.com/job/New-York-Sr-Data-Scientist-NY-10022-7240/695480400/?feedId=321900&utm_source=Indeed&utm_campaign=DiscComm_Indeed&mode=job&iis=Website+(Job+Board+Advertisement)&iisn=Indeed.com
+19203,Senior Data Scientist,Discovery,Indeed,https://jobs.discovery.com/job/New-York-Sr-Data-Scientist-NY-10022-7240/695480400/?feedId=321900&utm_source=Indeed&utm_campaign=DiscComm_Indeed&mode=job&iis=Website+(Job+Board+Advertisement)&iisn=Indeed.com
 19204,Data Scientist - Supply Chain Reporting and Analytics,American Standard,Unknown,https://careers-americanstandard.icims.com/jobs/3674/job?utm_source=indeed_integration&iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&mode=job&iis=Job+Board&iisn=Indeed&mobile=false&width=1263&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240
 19205,Full Stack Engineer,GreenPark Sports,Greenhouse,https://boards.greenhouse.io/greenparksports/jobs/4879448002?gh_src=a68c20fd2
 19206,"",Unknown,LinkedIn,https://www.linkedin.com/jobs/view/2335801784/?alertAction=markasviewed&savedSearchAuthToken=1%26AQFjrH5iCvlSAwAAAXY-SR2gAqSkaPdG1NKbKvtbeUzJMFIhwR2W6f08WvhhrVBnFw20RBr_IQvkWhEd16oT_BKyLgaBWvEkoC8i-6h1yQBc5zUfcPLJG5M-11ReVaB--r9vzIHUeO_HFtTFEH8qATkywd3nEIFL-XsJtBEy68OBgpXWg-GDyvyUgTo3HHH7UN7ixixXHCqrh4VoUsl31ECbLFuXLstqfRb630IQvcn35uqBnnT8T1LGL0bY3aedqZsNjEgN5BIL_vmXE9389VeMHxmmXfVUfyu44AAYFA5nvD3U9KjHZ9Nc%26AQM3VynTWYGpJO71z0slVPWt4a9h&savedSearchId=1098791576&refId=c682f57a-97f3-4bdd-b0de-dee637c96218&trackingId=Cz%2FyUe9u1BrppiKy9q03pA%3D%3D&midToken=AQFGAG2_Kokk_g&midSig=1-NChxcMI3NFw1&trk=eml-email_job_alert_single_02-job_alert-6-member_details_mercado&trkEmail=eml-email_job_alert_single_02-job_alert-6-member_details_mercado-null-317dxa%7Ekieua1ty%7E8x-null-jobs%7Eview
@@ -19703,7 +19703,7 @@ InterSystems",Glassdoor,"https://www.glassdoor.com/job-listing/entry-level-softw
 19686,"Director, People Data & Analytics",Better.com,Unknown,
 19687,Product Designer,Brainpop,LinkedIn,https://www.linkedin.com/jobs/view/2316875545/?refid=4038010871608678962699&trackingid=xaxhzzystw6%2bh76wo53gpg%3d%3d
 19688,PMM,RangeMe,LinkedIn,https://www.linkedin.com/jobs/view/2360614018/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=TOP_APPLICANT&refId=%2Bjnimb25VKz8MvS%2FkFDW7w%3D%3D&trackingId=soltGP%2FAGPXnr1eXl8c5yQ%3D%3D&trk=flagship3_search_srp_jobs
-19689,Software engineer / java api developer (avp),Citibank,Company Website,https://jobs.citi.com/job/-/-/287/18142136?utm_source=glassdoor.com&utm_medium=profile&utm_campaign=NAM_lateral&utm_content=social_media&utm_term=291183883&ss=paid
+19689,Software engineer / java api developer (avp),Citibank,Glassdoor,https://jobs.citi.com/job/-/-/287/18142136?utm_source=glassdoor.com&utm_medium=profile&utm_campaign=NAM_lateral&utm_content=social_media&utm_term=291183883&ss=paid
 19690,PMM,Synergis Creative,LinkedIn,https://www.linkedin.com/jobs/view/2349946160/?eBP=CwEAAAF2yYgxULnSJcLykblhf2aXAiB0UV9sAzoOWo7kMhAhg9TYVkN4wsueGatoh8pBWv-JcnVWE5YzP-ouQ7NlNavWr-j8bWEQkjDT7_hbLv-6ooL8hWk-psE_YyY9XY6zU3rKU5FcaJ1SDPF7FishgtHyfg6EP85-jJRPQJLWoji296gygoDh1gfFh92d395HddU3uXGqic7J5NOSGJnwJx-339xXfQOwGKOZ6jKNW7pl4LJJZa_ZpYE6Ywv3iKAd2X3BmJWKuvPOGEZu_Gr4UNUisATtiGn0LIGaQSVJ5d6gVjshCuo41rtNfUuWhlCem00NhyvoytLFkbDM6GEX3NIGw2MTr7KPsLxF_nJOhLc&recommendedFlavor=TOP_APPLICANT&refId=%2Bjnimb25VKz8MvS%2FkFDW7w%3D%3D&trackingId=zHAisHeoHVW%2Bw0zUeUD30g%3D%3D&trk=flagship3_search_srp_jobs
 19691,Product Designer,Snowflake,Company Website,https://careers.snowflake.com/us/en/applythankyou?jobSeqNo=SNCOUS4939736002EXTERNALENUS&status=success&jobTitle=Product%20Designer&jobId=4939736002
 19692,Digital Marketing Manager,"3 Enrollment Marketing, Inc.",LinkedIn,https://www.linkedin.com/jobs/search/?currentJobId=2366669142&f_CF=f_WRA&f_E=2%2C3%2C4&f_JT=F&f_TPR=r604800&geoId=103644278&keywords=marketing&location=United%20States
@@ -19715,7 +19715,7 @@ InterSystems",Glassdoor,"https://www.glassdoor.com/job-listing/entry-level-softw
 19698,Java application software engineer,JP Morgan,Unknown,https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210041093/?utm_medium=jobshare&src=LinkedIn_Slots
 19699,Web Engineer (SEO) - Growth Team,Spotify,Lever,https://jobs.lever.co/spotify/238684d8-5043-40f8-aa92-69a36ce111e8/apply?lever-source=LinkedIn
 19700,Java/python developer - remote,CDO Technologies Inc ,Indeed,https://www.indeed.com/viewjob?from=app-tracker-saved-applybtn%2CiaBackPress&hl=en&jk=b7367ac68c38191c&tk=1er542k19tg7m800
-19701,Jr. software engineer,KIBO,Unknown,https://recruit.hirebridge.com/v3/careercenter/v2/details.aspx?jid=537371&cid=7648&locvalue=1011&source=Indeed.com
+19701,Jr. software engineer,KIBO,Indeed,https://recruit.hirebridge.com/v3/careercenter/v2/details.aspx?jid=537371&cid=7648&locvalue=1011&source=Indeed.com
 19702,Java developer,"Education Service Center, Region 20 [ESC-20]",Indeed,https://www.indeed.com/viewjob?from=app-tracker-saved-applybtn%2CiaBackPress&hl=en&jk=6c74c598972b57ad&tk=1er542k19tg7m800
 19703,Social Media Manager,"Salvant Development Group, LLC",Indeed,https://www.indeed.com/jobs?q&l=Stone%20Harbor%2C%20NJ&fromage=7&remotejob=032b3046-06a3-4876-8dfd-474eb5e7ed11&sort=date&advn=7551291384710188&vjk=756c710fc047625a
 19704,Jr. Product Designer,Rivian Automotive,Lever,https://jobs.lever.co/rivian.com/067e680e-748e-4dcd-af26-f76187e3292c/apply
