@@ -12,6 +12,9 @@
 
 ActiveRecord::Schema.define(version: 2021_03_25_211607) do
 
+  # These are extensions that must be enabled in order to support this database
+  enable_extension "plpgsql"
+
   create_table "job_boards", force: :cascade do |t|
     t.string "name"
     t.string "rating"
@@ -26,11 +29,10 @@ ActiveRecord::Schema.define(version: 2021_03_25_211607) do
     t.string "job_title"
     t.string "company_name"
     t.string "job_url"
-    t.integer "job_board_id"
+    t.bigint "job_board_id"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.index ["job_board_id"], name: "index_jobs_on_job_board_id"
   end
 
-  add_foreign_key "jobs", "job_boards"
 end

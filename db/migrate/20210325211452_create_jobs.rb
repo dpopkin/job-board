@@ -4,7 +4,7 @@ class CreateJobs < ActiveRecord::Migration[6.1]
       t.string :job_title
       t.string :company_name
       t.string :job_url
-      t.belongs_to :job_board, foreign_key: true
+      t.belongs_to :job_board
 
       t.timestamps
     end
