@@ -9,8 +9,9 @@
 ## Installation
 - Clone repo.
 - Run `bundle install`.
-- Run `rails import_files:import_job_boards`. To initialize the job boards.
-- Run `rails import_files:import_jobs`. To initialize the jobs
+- Run `rails db:migrate`.
+- Run `rails import_files:import_jobs`. To initialize the job listings.
+- Run `rails import_files:import_job_boards`. To initialize the job boards. It must be done in this order or it will fail, as job boards establishes the relations!
 - Run `rails serve`.
 
 ## Third Party Libraries Used:
