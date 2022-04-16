@@ -1,6 +1,4 @@
-# README
-
-### DEMO: ` hidden-shore-94251[do_t]herokuapp[ＤＯＴ]com/job_boards `
+# README`
 
 ## How it works:
 - This program gets two files located in the job data directory, a `job_opportunities` CSV file and a job_board JSON file and uses Rake tasks to populate the database for both the CSV and JSON files. It can then either generate a CSV that parses the data with the rake command `import_files:generate_merged_csv` or display the job data from a front-end.
